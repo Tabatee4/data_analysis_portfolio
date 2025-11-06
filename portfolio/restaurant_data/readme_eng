@@ -1,0 +1,29 @@
+Restaurant Data Cleaning (Python)
+
+Project Goal
+
+The goal of the project was to clean a raw CSV file containing restaurant transaction data.
+The task aimed to demonstrate the ability to identify missing values, perform logical validation of data, and prepare it for further analysis or visualization.
+
+Data Cleaning Process
+
+Loaded and explored the dataset (size, data types, missing values)
+Filled missing item names (Item) and payment methods (Payment Method)
+Calculated missing values based on relationships between columns
+Filled in missing data where possible
+Removed rows without complete numeric information
+Converted columns to proper data types
+Verified consistency of calculations
+Saved the cleaned dataset as a .csv file
+Skills Demonstrated in the Project
+
+Python & Pandas – data processing and validation
+
+Data Cleaning – filling missing values, type conversions, fixing inconsistencies
+Data Validation – verifying relationships between columns and logical checks
+Problem Solving – resolving typical issues in transactional data
+Data Preparation – creating clean datasets ready for further analysis in Excel, Power BI, or SQL
+
+Result
+
+A clean and consistent restaurant dataset was created, containing complete order information and ready for sales, trend, and payment method analysis.
