@@ -1,0 +1,29 @@
+Oczyszczanie danych restauracyjnych (Python)
+Cel projektu
+
+Celem projektu było oczyszczenie surowego pliku CSV z danymi transakcyjnymi restauracji.
+
+Zadanie miało na celu pokazanie umiejętności identyfikacji braków, walidacji logicznej danych oraz przygotowania ich do dalszej analizy lub wizualizacji.
+
+Proces oczyszczania danych
+
+Wczytanie danych i eksploracja podstawowych informacji (rozmiar, typy, brakujące wartości)
+Uzupełnienie brakujących nazw pozycji (Item) oraz metod płatności (Payment Method)
+Obliczanie brakujących wartości na podstawie zależności między kolumnami
+Uzupełnianie braków przy znajomości pozostałych wartości
+Usunięcie wierszy bez kompletnych danych liczbowych
+Konwersja kolumn
+Weryfikacja spójności obliczeń
+Zapis czystego zbioru danych do pliku .csv
+
+Umiejętności zaprezentowane w projekcie
+
+Python & Pandas – przetwarzanie i walidacja danych
+Data Cleaning – uzupełnianie braków, konwersje typów, naprawa niespójności
+Data Validation – kontrola zależności między kolumnami, testy logiczne
+Problem Solving – rozwiązywanie typowych błędów w danych transakcyjnych
+Tworzenie gotowych zbiorów danych – przygotowanie danych do dalszej analizy w Excelu, Power BI lub SQL
+
+Wynik
+
+Powstał oczyszczony, spójny zbiór danych restauracyjnych z pełnymi informacjami o zamówieniach, gotowy do analizy sprzedaży, trendów oraz metod płatności.
