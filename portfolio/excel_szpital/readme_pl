@@ -1,0 +1,29 @@
+Analiza danych dotyczących szpitala (Excel)
+Cel projektu
+
+Celem projektu była analiza syntetycznych danych szpitalnych w celu zrozumienia obłożenia oddziałów, satysfakcji pacjentów i zależności między długością pobytu, wiekiem oraz rodzajem usługi.
+Dane zostały stworzone wyłącznie do celów nauki i praktyki analizy danych.
+
+Opis analizy
+
+Łączna liczba pacjentów: 1000, personelu: 110 (ok. 9,1 pacjenta na pracownika).
+Średnia długość pobytu: 7,4 dnia, średni wiek pacjentów: 45,3 roku.
+Najwięcej pacjentów przyjmowano na oddziale Emergency (263), najmniej w ICU (241).
+Najmłodsi i najstarsi pacjenci najczęściej korzystali z oddziałów chirurgii i nagłych wypadków.
+Średnia satysfakcja pacjentów: najwyższa w ICU (81,62), najniższa w Emergency (77,88).
+Dłuższy pobyt (powyżej 5 dni) korelował z nieco wyższą satysfakcją.
+Obłożenie łóżek wahało się od 87,72% (wrzesień) do 96,94% (październik).
+
+Umiejętności zaprezentowane w projekcie
+
+Tworzenie tabel przestawnych i wykresów w Excelu
+Projektowanie interaktywnych paneli z wykorzystaniem slicerów i przycisków
+Budowa Data Modelu i relacji między tabelami
+Stosowanie zaawansowanych funkcji i formuł
+Conditional Formatting w celu wyróżniania kluczowych wartości
+Grupowanie danych według kategorii (wiek, długość pobytu, miesiące)
+Analiza zależności między zmiennymi i interpretacja wyników
+
+Wynik
+
+Uzyskano czytelny zestaw raportów i wizualizacji w Excelu, pozwalający szybko ocenić wydajność oddziałów, poziom satysfakcji pacjentów oraz trendy w przyjęciach.
