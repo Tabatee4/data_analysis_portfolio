@@ -1,0 +1,29 @@
+🇵🇱 Oczyszczanie danych dotyczących zwierząt (Python)
+
+Cel projektu
+
+Celem projektu było oczyszczenie i standaryzacja danych dotyczących obserwacji zwierząt, zapisanych w pliku CSV.
+Projekt pokazuje praktyczne umiejętności w zakresie pracy z nieuporządkowanymi danymi – ich czyszczenia, walidacji oraz przygotowania do dalszej analizy.
+
+Proces oczyszczania danych
+
+Wczytanie danych i ich eksploracja z użyciem biblioteki Pandas
+Usunięcie niepotrzebnych kolumn i duplikatów
+Poprawa błędnych nazw gatunków i krajów (np. „red squirel” → „Red Squirrel”)
+Ujednolicenie formatów tekstowych i typów danych
+Wypełnienie brakujących wartości (np. Gender = „unknown”)
+Zaokrąglenie współrzędnych geograficznych i wartości liczbowych
+Konwersja dat z różnych formatów (np. 03.01.2024, 7 May 2024) na typ datetime
+Zapis oczyszczonego zestawu do pliku clean_data_animal.csv
+
+Umiejętności zaprezentowane w projekcie
+
+Python & Pandas – manipulacja, czyszczenie i analiza danych
+Data Cleaning – naprawa błędów, standaryzacja nazw, obsługa braków
+Data Validation – konwersja typów, ujednolicenie formatów dat i liczb
+Analiza jakości danych – wykrywanie duplikatów i wartości odstających
+Dbałość o szczegóły – tworzenie spójnego, gotowego do analizy zestawu danych
+
+Wynik
+
+Otrzymano uporządkowany, kompletny i spójny zestaw danych obserwacji zwierząt, gotowy do dalszej analizy i wizualizacji w narzędziach BI.
