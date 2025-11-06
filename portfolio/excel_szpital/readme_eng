@@ -1,0 +1,30 @@
+Hospital Data Analysis (Excel)
+
+Project Goal
+
+The goal of this project was to analyze synthetic hospital data to understand department occupancy, patient satisfaction, and relationships between stay length, age, and type of service.
+All data were created for educational and analytical practice purposes only.
+
+Analysis Summary
+
+Total patients: 1000, staff: 110 (approx. 9.1 patients per staff member)
+Average stay length: 7.4 days; average patient age: 45.3 years
+Most admissions in Emergency (263), least in ICU (241)
+Youngest and oldest patients most often used Surgery and Emergency units
+Highest satisfaction in ICU (81.62), lowest in Emergency (77.88)
+Slight satisfaction increase for stays longer than 5 days
+Bed occupancy ranged from 87.72% (September) to 96.94% (October)
+
+Skills Demonstrated
+
+Creating Pivot Tables and charts in Excel
+Designing interactive dashboards using slicers and buttons
+Building a Data Model and relationships between tables
+Using advanced formulas and functions
+Applying Conditional Formatting for better insight visibility
+Grouping data by category (age, stay length, months)
+Analyzing relationships and interpreting patterns
+
+Outcome
+
+A clear Excel-based report and dashboard that visualize hospital performance, patient satisfaction, and yearly admission trends.
