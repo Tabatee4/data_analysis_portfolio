@@ -1,0 +1,29 @@
+ENG Animal Observation Data Cleaning (Python)
+
+Project Goal
+
+The goal of this project was to clean and standardize a CSV file containing animal observation data.
+It demonstrates hands-on data cleaning, validation, and preprocessing techniques to prepare messy data for analysis.
+
+Data Cleaning Process
+
+Imported and explored the dataset using Pandas
+Removed unnecessary columns and duplicate records
+Corrected typos and inconsistent names (e.g., “red squirel” → “Red Squirrel”)
+Standardized text formats and data types
+Filled missing values (e.g., Gender = “unknown”)
+Rounded numeric and coordinate values
+Converted various date formats (e.g., 03.01.2024, 7 May 2024) to datetime
+Exported the cleaned dataset to clean_data_animal.csv
+
+Skills Demonstrated
+
+Python & Pandas – data wrangling and cleaning workflows
+Data Cleaning – fixing errors, normalizing names, handling missing data
+Data Validation – consistent typing and format conversion
+Data Quality Analysis – duplicate and outlier detection
+Attention to Detail – producing a clean, analysis-ready dataset
+
+Outcome
+
+A consistent and high-quality animal observation dataset, ready for further exploration and visualization in BI tools.
