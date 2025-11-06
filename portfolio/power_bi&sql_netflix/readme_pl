@@ -1,0 +1,56 @@
+Netflix Data Analysis & Visualization
+
+Cel projektu / Project goal
+
+Projekt przedstawia pełny proces analizy danych z platformy streamingowej — od pozyskania i przetwarzania danych w SQL i Pythonie, po stworzenie interaktywnego dashboardu w Power BI.
+Celem było pokazanie umiejętności pracy z dużym zestawem danych, tworzenia zapytań SQL, integracji z Pythonem oraz budowy raportu analitycznego prezentującego kluczowe wskaźniki dotyczące użytkowników, aktywności i przychodów.
+
+Etapy projektu / Project stages
+1. Przygotowanie i analiza danych (Python + SQL)
+
+Połączenie z bazą PostgreSQL przy użyciu SQLAlchemy.
+Wykonanie zapytań SQL obejmujących:
+aktywność użytkowników,
+najpopularniejsze filmy i gatunki,
+średni czas oglądania według urządzenia i planu,
+przychody miesięczne i średni wiek widzów.
+Eksport wyników zapytań do plików .csv w celu dalszej wizualizacji w Power BI.
+Wykonanie testów poprawności danych i wstępnej wizualizacji (matplotlib).
+
+Umiejętności:
+
+SQL (zapytania agregujące, CTE, CASE, funkcje okna)
+Python (Pandas, SQLAlchemy, Matplotlib)
+Analiza danych i przygotowanie datasetów pod narzędzia BI
+
+2. Wizualizacja i raport (Power BI)
+
+Stworzenie dwustronicowego raportu Netflix Report (Aug 2022 – Jul 2025).
+
+Strona 1 – User & Platform Overview
+
+Aktywni vs nieaktywni użytkownicy
+Podział użytkowników wg kraju i planu subskrypcji
+Najaktywniejsi użytkownicy (średni czas oglądania)
+Urządzenia wykorzystywane do oglądania
+Procent pobranych materiałów
+
+Strona 2 – Financial & Content Insights
+
+Całkowity przychód z subskrypcji
+Najczęściej oglądany gatunek
+Średni wiek użytkowników
+Top 3 filmy i produkcje z największym budżetem
+Trend miesięcznych przychodów (2022–2025)
+
+Umiejętności:
+
+Power BI (model danych, DAX, slicery, drill-through)
+Projektowanie dashboardów i storytelling danych
+Integracja danych z zewnętrznych źródeł (SQL + CSV)
+
+Wyniki / Results
+
+Stworzenie czystego, spójnego zestawu danych gotowego do analizy.
+Zbudowanie dynamicznego dashboardu przedstawiającego najważniejsze wskaźniki operacyjne i finansowe Netflixa.
+Raport pozwala w prosty sposób ocenić aktywność użytkowników, popularność treści oraz trendy przychodów.
