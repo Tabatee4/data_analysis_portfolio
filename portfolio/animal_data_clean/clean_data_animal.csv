@@ -1,0 +1,826 @@
+Animal type,Country,Weight kg,Body Length cm,Gender,Latitude,Longitude,Animal name,Observation date,Data compiled by
+European Bison,Poland,930.0,335.0,male,52.83,23.82,Szefu,2024-03-01,Anne Anthony
+European Bison,Poland,909.0,311.0,unknown,52.83,23.83,unknown,2024-03-01,Anne Anthony
+European Bison,Poland,581.0,277.0,female,52.83,23.81,unknown,2024-03-01,Anne Anthony
+European Bison,Poland,900.0,295.0,male,52.83,23.82,unknown,2024-03-01,Anne Anthony
+European Bison,Poland,620.0,250.0,female,52.83,23.82,unknown,2024-03-01,Anne Anthony
+Lynx,Hungary,24.0,76.0,male,48.51,20.55,unknown,2024-03-01,Anne Anthony
+Lynx,Hungary,23.0,82.0,female,48.51,20.55,unknown,2024-03-01,Anne Anthony
+Red Squirrel,Poland,0.31,22.0,female,52.24,21.06,Basia,2024-03-01,Anne Anthony
+Red Squirrel,PL,0.35,20.0,female,52.24,21.06,unknown,2024-03-01,Anne Anthony
+Red Squirrel,Poland,0.32,20.0,male,52.24,21.06,Lolek,2024-03-01,Anne Anthony
+Red Squirrel,Poland,0.34,21.0,unknown,52.24,21.05,unknown,2024-03-01,Anne Anthony
+Red Squirrel,Poland,0.33,21.0,male,,,unknown,2024-03-01,Anne Anthony
+Red Squirrel,Poland,0.26,19.0,female,52.24,21.06,unknown,2024-03-01,Anne Anthony
+Red Squirrel,Poland,,,male,52.24,21.05,unknown,2024-03-01,Anne Anthony
+Red Squirrel,PL,0.26,22.0,female,52.24,21.05,unknown,2024-03-01,Anne Anthony
+Red Squirrel,Poland,0.32,23.0,male,52.24,21.06,unknown,2024-03-01,Anne Anthony
+Red Squirrel,Poland,0.33,21.0,male,52.24,21.05,unknown,2024-03-01,Anne Anthony
+Red Squirrel,Hungary,0.3,21.0,male,47.51,18.95,unknown,2024-03-01,Anne Anthony
+Red Squirrell,Poland,0.33,23.0,male,52.24,21.06,unknown,2024-03-01,Anne Anthony
+Red Squirrel,Germany,0.29,19.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.25,19.0,female,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.26,21.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.27,21.0,female,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.27,22.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.31,22.0,female,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.31,19.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.27,20.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.32,20.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.26,20.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.26,21.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.24,22.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.29,19.0,male,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.29,19.0,female,,,unknown,2024-03-01,Bob Bobson
+Red Squirrel,Germany,0.31,22.0,male,,,unknown,2024-03-01,Bob Bobson
+European Bison,Slovakia,420.0,182.0,male,49.05,22.42,unknown,2024-03-01,John Johnson
+European Bison,Slovakia,511.0,266.0,female,49.05,22.42,unknown,2024-03-01,John Johnson
+European Bison,Slovakia,814.0,288.0,male,49.05,22.42,unknown,2024-03-01,John Johnson
+European Bison,Slovakia,130.0,141.0,female,49.05,22.42,unknown,2024-03-01,John Johnson
+European Bison,Slovakia,390.0,180.0,female,49.05,22.42,unknown,2024-03-01,John Johnson
+European Bison,Slovakia,355.0,179.0,male,49.06,22.42,unknown,2024-03-01,John Johnson
+European Bison,Slovakia,566.0,272.0,female,49.05,22.42,unknown,2024-03-01,John Johnson
+European Bison,Slovakia,393.0,152.0,unknown,49.06,22.42,unknown,2024-03-01,John Johnson
+European Bison,Czech Republic,823.0,286.0,male,50.64,14.83,unknown,2024-03-01,John Johnson
+European Bison,Slovakia,695.0,316.0,male,49.06,22.42,unknown,2024-03-01,John Johnson
+Hedgehog,Czech Republic,0.6,20.0,female,50.64,14.84,unknown,2024-03-01,John Johnson
+Hedgehog,Czech Republic,0.6,16.0,male,50.64,14.84,unknown,2024-03-01,John Johnson
+Hedgehog,Czech Republic,1.2,31.0,male,50.64,14.84,unknown,2024-03-01,John Johnson
+Red Squirrel,Slovakia,0.28,23.0,male,48.19,17.08,unknown,2024-03-01,John Johnson
+Hedgehog,Czech Republic,0.9,22.0,male,50.64,14.84,unknown,2024-03-01,John Johnson
+Lynx,Hungary,23.0,78.0,female,48.5,20.57,unknown,2024-03-02,Anne Anthony
+Lynx,Poland,29.0,94.0,male,52.81,23.86,unknown,2024-03-02,Anne Anthony
+Red Squirrel,Germany,0.24,22.0,female,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.3,21.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.28,20.0,female,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.29,20.0,female,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.28,21.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.31,22.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.26,19.0,female,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.26,20.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.3,21.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.26,22.0,female,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.28,22.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.29,22.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.3,20.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.28,20.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.28,20.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.24,21.0,female,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.28,21.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.27,19.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.32,22.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.25,17.0,female,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.25,19.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.3,21.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.31,19.0,female,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.25,19.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.29,20.0,female,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.3,20.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.27,17.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.28,20.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.3,21.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.31,20.0,male,,,unknown,2024-03-02,Bob Bobson
+Red Squirrel,Germany,0.24,21.0,male,,,unknown,2024-03-02,Bob Bobson
+European Bison,Czech,402.0,162.0,female,50.64,14.84,unknown,2024-03-02,John Johnson
+European Bison,Czech Republic,535.0,295.0,male,50.64,14.84,unknown,2024-03-02,John Johnson
+European Bison,Czech Republic,572.0,251.0,female,50.64,14.85,unknown,2024-03-02,John Johnson
+Hedgehog,Czech Republic,0.9,20.0,female,50.64,14.85,unknown,2024-03-02,John Johnson
+Hedgehog,Czech Republic,0.7,16.0,female,50.64,14.84,unknown,2024-03-02,John Johnson
+Hedgehog,Czech Republic,0.7,14.0,female,50.64,14.84,unknown,2024-03-02,John Johnson
+Hedgehog,Czech Republic,1.1,32.0,male,50.64,14.84,unknown,2024-03-02,John Johnson
+Hedgehog,Czech Republic,0.5,20.0,male,50.64,14.84,unknown,2024-03-02,John Johnson
+Hedgehog,Czech Republic,1.1,22.0,female,50.64,14.84,unknown,2024-03-02,John Johnson
+Hedgehog,Czech Republic,1.0,20.0,female,50.64,14.84,unknown,2024-03-02,John Johnson
+Hedgehog,Czech Republic,0.7,13.0,female,50.64,14.84,unknown,2024-03-02,John Johnson
+Lynx,Slovakia,30.0,120.0,male,48.41,18.83,unknown,2024-03-02,John Johnson
+Red Squirrel,Hungry,0.26,20.0,female,47.51,18.95,unknown,2024-03-03,Anne Anthony
+Hedgehog,Czech Republic,0.6,20.0,male,50.64,14.84,unknown,2024-03-03,John Johnson
+Lynx,Slovakia,28.0,131.0,male,48.41,18.84,unknown,2024-03-03,John Johnson
+Red Squirrel,Slovakia,0.28,18.0,male,48.19,17.09,unknown,2024-03-03,John Johnson
+European Bison,Poland,650.0,285.0,female,52.83,23.83,unknown,2024-03-04,Anne Anthony
+Hedgehog,HU,1.1,24.0,male,48.5,20.56,unknown,2024-03-04,Anne Anthony
+Hedgehog,Hungary,1.1,26.0,unknown,48.5,20.55,unknown,2024-03-04,Anne Anthony
+Hedgehog,Hungary,0.8,18.0,female,48.5,20.54,unknown,2024-03-04,Anne Anthony
+Hedgehog,Hungary,1.2,26.0,male,48.51,20.55,unknown,2024-03-04,Anne Anthony
+Hedgehog,Poland,0.9,22.0,male,52.21,21.03,unknown,2024-03-04,Anne Anthony
+Lynx,Hungary,25.0,89.0,male,48.5,20.56,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Hungary,0.28,18.0,female,48.51,20.55,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Hungary,0.31,19.0,male,,,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Hungary,0.3,22.0,male,48.5,20.53,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Hungary,0.3,18.0,female,48.51,20.54,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Hungary,0.3,17.0,male,48.51,20.55,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Hungry,0.32,18.0,male,48.5,20.55,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Hungary,0.28,19.0,female,48.51,20.54,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Poland,0.33,24.0,male,52.24,21.05,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Poland,0.3,22.0,female,52.24,21.05,Lola,2024-03-04,Anne Anthony
+Red Squirrel,Poland,0.28,17.0,female,52.24,21.06,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Poland,0.34,21.0,male,52.24,21.05,unknown,2024-03-04,Anne Anthony
+Red Squirrel,PL,0.35,24.0,male,52.24,21.06,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Poland,0.29,21.0,unknown,52.24,21.06,unknown,2024-03-04,Anne Anthony
+Red Squirrel,Poland,0.33,22.0,female,52.24,21.06,Lola,2024-03-04,Anne Anthony
+Red Squirrell,HU,0.33,18.0,female,48.5,20.55,unknown,2024-03-04,Anne Anthony
+Red Squirrell,Poland,0.35,24.0,male,52.24,21.06,unknown,2024-03-04,Anne Anthony
+Hedgehog,Czech Republic,0.6,17.0,male,50.64,14.84,unknown,2024-03-04,John Johnson
+Hedgehog,Czech Republic,0.9,22.0,female,50.64,14.85,unknown,2024-03-04,John Johnson
+Red Squirrel,Czech Republic,0.29,21.0,female,49.94,14.18,unknown,2024-03-04,John Johnson
+Red Squirrel,Slovakia,0.3,20.0,female,48.19,17.08,unknown,2024-03-04,John Johnson
+Lynx,HU,24.0,79.0,male,48.5,20.56,unknown,2024-03-05,Anne Anthony
+Red Squirrel,Poland,0.3,23.0,female,52.24,21.05,unknown,2024-03-05,Anne Anthony
+Red Squirrel,Poland,0.34,20.0,male,52.24,21.06,unknown,2024-03-05,Anne Anthony
+Red Squirrel,Hungary,0.25,19.0,male,47.51,18.95,unknown,2024-03-05,Anne Anthony
+Red Squirrel,Hungary,0.29,18.0,female,47.51,18.94,unknown,2024-03-05,Anne Anthony
+Hedgehog,Czech,0.9,19.0,female,50.11,14.35,unknown,2024-03-05,John Johnson
+Lynx,Slovakia,23.0,97.0,female,48.41,18.85,unknown,2024-03-05,John Johnson
+Red Squirrel,Slovakia,0.33,23.0,male,48.41,18.84,unknown,2024-03-05,John Johnson
+Red Squirrel,Slovakia,0.32,17.0,male,48.41,18.84,unknown,2024-03-05,John Johnson
+Red Squirrel,Slovakia,0.27,18.0,female,48.4,18.85,unknown,2024-03-05,John Johnson
+Red Squirrel,Slovakia,0.31,22.0,male,48.41,18.84,unknown,2024-03-05,John Johnson
+Red Squirrel,Slovakia,0.31,22.0,male,48.41,18.83,unknown,2024-03-05,John Johnson
+Red Squirrel,Slovakia,0.29,22.0,female,48.41,18.84,unknown,2024-03-05,John Johnson
+Red Squirrell,Slovakia,0.26,19.0,male,48.41,18.85,unknown,2024-03-05,John Johnson
+European Bison,Poland,454.0,225.0,female,52.83,23.83,unknown,2024-03-06,Anne Anthony
+Hedgehog,Poland,1.1,22.0,female,52.21,21.03,unknown,2024-03-06,Anne Anthony
+Hedgehog,Poland,0.9,21.0,male,52.21,21.03,unknown,2024-03-06,Anne Anthony
+Lynx,Hungry,18.0,81.0,female,48.51,20.54,unknown,2024-03-06,Anne Anthony
+Red Squirrel,Poland,0.34,23.0,male,52.24,21.06,unknown,2024-03-06,Anne Anthony
+Red Squirrel,Poland,0.27,22.0,female,52.24,21.06,unknown,2024-03-06,Anne Anthony
+Hedgehog,Czech Republic,0.6,17.0,female,50.11,14.35,unknown,2024-03-06,John Johnson
+Hedgehog,Czech Republic,0.4,12.0,female,50.11,14.35,unknown,2024-03-06,John Johnson
+Hedgehog,Czech Republic,1.1,26.0,male,50.11,14.35,unknown,2024-03-06,John Johnson
+Hedgehog,Czech Republic,0.8,22.0,male,50.11,14.35,unknown,2024-03-06,John Johnson
+Red Squirrel,Slovakia,0.33,21.0,male,48.19,17.09,unknown,2024-03-06,John Johnson
+Red Squirrell,Slovakia,0.31,23.0,female,48.19,17.08,unknown,2024-03-06,John Johnson
+European Bison,Poland,862.0,312.0,male,52.83,23.83,unknown,2024-03-07,Anne Anthony
+Hedgehog,Hungary,,,female,48.51,20.57,unknown,2024-03-07,Anne Anthony
+Hedgehog,Hungary,0.5,16.0,male,48.51,20.54,unknown,2024-03-07,Anne Anthony
+Hedgehog,Hungary,0.8,23.0,female,48.5,20.55,unknown,2024-03-07,Anne Anthony
+Hedgehog,Hungary,0.7,18.0,female,48.51,20.54,unknown,2024-03-07,Anne Anthony
+Hedgehog,Hungry,1.2,23.0,male,48.5,20.56,unknown,2024-03-07,Anne Anthony
+Hedgehog,Hungry,0.5,15.0,male,48.5,20.56,unknown,2024-03-07,Anne Anthony
+Hedgehog,Hungary,0.6,18.0,female,48.51,20.57,unknown,2024-03-07,Anne Anthony
+Lynx,Hungary,29.0,109.0,male,48.5,20.53,unknown,2024-03-07,Anne Anthony
+Lynx,Poland,26.0,85.0,female,52.81,23.84,unknown,2024-03-07,Anne Anthony
+Red Squirrel,HU,0.3,19.0,male,2.02,34.9,unknown,2024-03-07,Anne Anthony
+Red Squirrel,Hungary,0.3,23.0,male,48.51,20.54,unknown,2024-03-07,Anne Anthony
+Red Squirrel,Hungary,0.29,18.0,female,48.5,20.54,unknown,2024-03-07,Anne Anthony
+Red Squirrel,Poland,0.32,21.0,male,52.24,21.05,unknown,2024-03-07,Anne Anthony
+European Bison,Czech Republic,716.0,303.0,male,50.64,14.85,unknown,2024-03-07,John Johnson
+European Bison,Czech Republic,541.0,212.0,female,50.64,14.85,unknown,2024-03-07,John Johnson
+European Bison,Czech Republic,30.0,100.0,female,50.64,14.85,unknown,2024-03-07,John Johnson
+Hedgehog,Czech Republic,0.7,20.0,female,50.11,14.35,unknown,2024-03-07,John Johnson
+Hedgehog,Czech Republic,0.7,20.0,female,50.11,14.35,unknown,2024-03-07,John Johnson
+Hedgehog,Czech Republic,1.2,26.0,male,50.11,14.35,unknown,2024-03-07,John Johnson
+Red Squirrel,Czech Republic,0.27,17.0,female,49.94,14.18,unknown,2024-03-07,John Johnson
+Hedgehog,Hungary,1.0,24.0,female,48.51,20.54,unknown,2024-03-08,Anne Anthony
+Hedgehog,Poland,0.8,19.0,female,52.21,21.03,unknown,2024-03-08,Anne Anthony
+Red Squirrel,Hungary,0.26,19.0,female,47.51,18.94,unknown,2024-03-08,Anne Anthony
+Hedgehog,Czech Republic,0.8,22.0,male,50.11,14.35,unknown,2024-03-08,John Johnson
+Hedgehog,Czech Republic,1.1,23.0,male,50.11,14.35,unknown,2024-03-08,John Johnson
+European Bison,Poland,621.0,277.0,female,52.83,23.82,unknown,2024-03-09,Anne Anthony
+European Bison,Poland,385.0,168.0,female,52.83,23.82,unknown,2024-03-09,Anne Anthony
+Hedgehog,Poland,0.6,19.0,male,52.21,21.03,unknown,2024-03-09,Anne Anthony
+Hedgehog,Poland,0.8,22.0,female,52.21,21.03,unknown,2024-03-09,Anne Anthony
+Lynx,Hungary,12.0,61.0,female,48.51,20.57,unknown,2024-03-09,Anne Anthony
+Lynx,Hungary,23.0,73.0,female,48.51,20.55,unknown,2024-03-09,Anne Anthony
+Lynx,PL,20.0,95.0,female,52.81,23.84,unknown,2024-03-09,Anne Anthony
+Lynx,Poland,18.0,63.0,male,52.81,23.86,unknown,2024-03-09,Anne Anthony
+Red Squirrel,Poland,0.3,22.0,male,52.24,21.05,unknown,2024-03-09,Anne Anthony
+Red Squirrell,Hungary,0.28,20.0,female,47.51,18.95,unknown,2024-03-09,Anne Anthony
+Hedgehog,Czech Republic,0.9,22.0,female,50.11,14.35,unknown,2024-03-09,John Johnson
+Hedgehog,Czech Republic,1.1,23.0,male,50.11,14.35,unknown,2024-03-09,John Johnson
+Hedgehog,Czech Republic,0.6,19.0,male,50.11,14.35,unknown,2024-03-09,John Johnson
+Red Squirrel,Czech Republic,0.29,19.0,male,49.94,14.18,unknown,2024-03-09,John Johnson
+Hedgehog,Hungary,0.9,20.0,female,48.51,20.57,unknown,2024-03-10,Anne Anthony
+Hedgehog,Hungary,0.9,21.0,male,48.51,20.57,unknown,2024-03-10,Anne Anthony
+Hedgehog,Hungary,1.1,26.0,male,48.5,20.56,unknown,2024-03-10,Anne Anthony
+Lynx,Hungary,23.0,77.0,female,48.51,20.55,unknown,2024-03-10,Anne Anthony
+Lynx,Hungry,15.0,71.0,male,48.5,20.56,unknown,2024-03-10,Anne Anthony
+Hedgehog,Czech Republic,0.8,17.0,male,49.94,14.18,unknown,2024-03-10,John Johnson
+Hedgehog,Czech Republic,0.5,18.0,female,49.94,14.18,unknown,2024-03-10,John Johnson
+Hedgehog,Czech Republic,0.7,17.0,female,49.94,14.18,unknown,2024-03-10,John Johnson
+Hedgehog,Czech Republic,0.5,15.0,female,49.94,14.18,unknown,2024-03-10,John Johnson
+European Bison,Poland,24.0,100.0,female,52.83,23.83,unknown,2024-03-11,Anne Anthony
+Hedgehog,Hungary,0.9,19.0,female,48.51,20.54,unknown,2024-03-11,Anne Anthony
+Hedgehog,Poland,0.8,16.0,female,52.21,21.03,unknown,2024-03-11,Anne Anthony
+Lynx,Hungary,20.0,90.0,female,48.5,20.57,unknown,2024-03-11,Anne Anthony
+Red Squirrel,Hungary,0.32,21.0,male,48.51,20.55,unknown,2024-03-11,Anne Anthony
+Red Squirrel,HU,0.28,21.0,male,2.02,34.9,unknown,2024-03-11,Anne Anthony
+Red Squirrel,Hungary,0.31,22.0,female,48.51,20.55,unknown,2024-03-11,Anne Anthony
+Red Squirrel,Hungary,0.34,22.0,female,48.51,20.54,unknown,2024-03-11,Anne Anthony
+Red Squirrel,Hungary,0.29,21.0,male,48.51,20.54,unknown,2024-03-11,Anne Anthony
+Red Squirrel,Hungary,0.29,20.0,male,48.51,20.55,unknown,2024-03-11,Anne Anthony
+Red Squirrel,Hungary,0.34,19.0,female,48.5,20.56,unknown,2024-03-11,Anne Anthony
+Red Squirrel,Hungary,0.34,19.0,female,48.5,20.56,unknown,2024-03-11,Anne Anthony
+Red Squirrel,Poland,0.3,22.0,unknown,52.24,21.06,unknown,2024-03-11,Anne Anthony
+Red Squirrel,Czech Republic,0.27,18.0,male,49.94,14.18,unknown,2024-03-11,John Johnson
+European Bison,Poland,315.0,175.0,male,52.83,23.81,unknown,2024-03-12,Anne Anthony
+Red Squirrel,Poland,0.32,24.0,male,52.24,21.06,unknown,2024-03-12,Anne Anthony
+Red Squirrel,Hungry,,,female,47.51,18.95,unknown,2024-03-12,Anne Anthony
+Hedgehog,Czech Republic,0.6,20.0,male,49.94,14.18,unknown,2024-03-12,John Johnson
+Hedgehog,Czech,0.4,17.0,male,49.94,14.18,unknown,2024-03-12,John Johnson
+Red Squirrel,Czech Republic,0.32,23.0,female,49.94,14.18,unknown,2024-03-12,John Johnson
+Hedgehog,Hungary,0.6,14.0,female,48.51,20.55,unknown,2024-03-13,Anne Anthony
+Hedgehog,Poland,0.8,24.0,male,52.21,21.03,unknown,2024-03-13,Anne Anthony
+Lynx,Hungary,20.0,86.0,male,48.5,20.56,unknown,2024-03-13,Anne Anthony
+Red Squirrel,Poland,0.36,23.0,female,52.24,21.05,Basia,2024-03-13,Anne Anthony
+Red Squirrel,Hungary,0.26,18.0,male,47.51,18.94,unknown,2024-03-13,Anne Anthony
+Red Squirrel,Germany,0.34,18.0,male,48.16,11.49,Bob Bobson,2024-03-13,Bob Bobson
+Hedgehog,Czech Republic,0.6,15.0,female,49.94,14.18,unknown,2024-03-13,John Johnson
+Red Squirrel,Slovakia,0.29,18.0,female,48.19,17.08,unknown,2024-03-13,John Johnson
+European Bison,Poland,610.0,258.0,female,52.82,23.81,unknown,2024-03-14,Anne Anthony
+Hedgehog,Hungary,0.7,21.0,female,48.51,20.55,unknown,2024-03-14,Anne Anthony
+Hedgehog,Poland,1.0,21.0,female,52.21,21.03,unknown,2024-03-14,Anne Anthony
+Hedgehog,PL,0.8,15.0,female,52.21,21.03,unknown,2024-03-14,Anne Anthony
+Red Squirrel,Poland,0.32,21.0,female,52.24,21.06,unknown,2024-03-14,Anne Anthony
+Red Squirrell,Hungary,0.29,23.0,female,47.51,18.95,unknown,2024-03-14,Anne Anthony
+Hedgehog,Australia,0.8,24.0,unknown,47.78,14.39,unknown,2024-03-14,Bob Bobson
+Hedgehog,Austria,0.7,19.0,female,47.78,14.38,unknown,2024-03-14,Bob Bobson
+Hedgehog,Austria,0.8,20.0,male,47.78,14.39,unknown,2024-03-14,Bob Bobson
+Hedgehog,Austria,0.6,14.0,female,47.78,14.39,unknown,2024-03-14,Bob Bobson
+Hedgehog,Austria,0.7,24.0,male,47.78,14.38,unknown,2024-03-14,Bob Bobson
+Hedgehog,Austria,0.8,21.0,female,47.78,14.39,unknown,2024-03-14,Bob Bobson
+Lynx,Austria,22.0,80.0,female,47.78,14.38,unknown,2024-03-14,Bob Bobson
+Lynx,Austria,23.0,86.0,male,47.78,14.38,unknown,2024-03-14,Bob Bobson
+Hedgehog,Czech Republic,0.9,16.0,female,49.94,14.18,unknown,2024-03-14,John Johnson
+Hedgehog,Poland,0.9,22.0,male,52.21,21.03,unknown,2024-03-15,Anne Anthony
+Lynx,Poland,16.0,70.0,male,52.8,23.84,unknown,2024-03-15,Anne Anthony
+Hedgehog,Czech Republic,0.7,21.0,female,49.94,14.18,unknown,2024-03-15,John Johnson
+Red Squirrel,Slovakia,0.29,23.0,male,48.18,17.09,unknown,2024-03-15,John Johnson
+Red Squirrel,Czech Republic,0.27,18.0,female,49.94,14.18,unknown,2024-03-15,John Johnson
+Red Squirrel,Czech Republic,0.33,19.0,male,49.94,14.18,unknown,2024-03-15,John Johnson
+European Bison,Poland,35.0,125.0,female,52.82,23.82,unknown,2024-03-16,Anne Anthony
+Hedgehog,Hungary,0.6,23.0,male,48.5,20.55,unknown,2024-03-16,Anne Anthony
+Lynx,Poland,16.0,72.0,male,52.81,23.83,unknown,2024-03-16,Anne Anthony
+Lynx,Poland,18.0,81.0,female,52.8,23.84,unknown,2024-03-16,Anne Anthony
+Red Squirrel,Poland,0.35,19.0,male,52.24,21.05,unknown,2024-03-16,Anne Anthony
+Red Squirrel,Hungary,0.27,22.0,female,47.51,18.94,unknown,2024-03-16,Anne Anthony
+Red Squirrel,Slovakia,0.33,19.0,female,48.19,17.09,unknown,2024-03-16,John Johnson
+European Bison,Poland,915.0,304.0,male,52.82,23.81,unknown,2024-03-17,Anne Anthony
+Hedgehog,Hungary,0.7,15.0,female,48.5,20.54,unknown,2024-03-17,Anne Anthony
+Hedgehog,Poland,0.6,15.0,female,52.21,21.03,unknown,2024-03-17,Anne Anthony
+Red Squirrel,Hungary,0.28,21.0,female,47.51,18.94,unknown,2024-03-17,Anne Anthony
+Red Squirrel,Slovakia,0.32,23.0,female,49.06,22.42,unknown,2024-03-17,John Johnson
+Red Squirrel,Slovakia,0.3,23.0,male,48.41,18.88,unknown,2024-03-17,John Johnson
+Red Squirrel,Slovakia,0.33,20.0,female,48.41,18.86,unknown,2024-03-17,John Johnson
+Red Squirrel,Slovakia,0.28,19.0,male,48.41,18.87,unknown,2024-03-17,John Johnson
+Red Squirrell,Slovakia,0.29,18.0,male,48.41,18.87,unknown,2024-03-17,John Johnson
+European Bison,Poland,537.0,287.0,female,52.83,23.81,unknown,2024-03-18,Anne Anthony
+Red Squirrel,Poland,0.35,23.0,male,52.24,21.05,unknown,2024-03-18,Anne Anthony
+Hedgehog,Czech Republic,1.2,26.0,male,49.94,14.18,unknown,2024-03-18,John Johnson
+Hedgehog,CZ,0.9,17.0,male,49.94,14.18,unknown,2024-03-18,John Johnson
+Red Squirrel,Czech Republic,0.32,18.0,female,49.94,14.18,unknown,2024-03-18,John Johnson
+Red Squirrel,Czech Republic,0.27,17.0,male,49.94,14.18,unknown,2024-03-18,John Johnson
+Hedgehog,Hungary,1.1,19.0,female,48.5,20.56,unknown,2024-03-19,Anne Anthony
+Hedgehog,Poland,0.4,16.0,male,52.21,21.03,unknown,2024-03-19,Anne Anthony
+Hedgehog,Austria,1.1,21.0,female,47.78,14.38,unknown,2024-03-19,Bob Bobson
+Hedgehog,Austria,0.7,25.0,male,47.78,14.38,unknown,2024-03-19,Bob Bobson
+Hedgehog,Austria,1.1,24.0,male,47.78,14.38,unknown,2024-03-19,Bob Bobson
+Hedgehog,Austria,0.4,21.0,female,47.78,14.38,unknown,2024-03-19,Bob Bobson
+Hedgehog,Germany,0.8,16.0,male,52.59,13.15,Bob Bobson,2024-03-19,Bob Bobson
+Hedgehog,Germany,0.5,18.0,female,52.59,13.15,Bob Bobson,2024-03-19,Bob Bobson
+Hedgehog,Germany,0.5,18.0,male,52.59,13.15,Bob Bobson,2024-03-19,Bob Bobson
+Hedgehog,Germany,0.4,13.0,female,52.59,13.15,Bob Bobson,2024-03-19,Bob Bobson
+Hedgehog,Germany,1.0,21.0,male,52.59,13.15,Bob Bobson,2024-03-19,Bob Bobson
+Hedgehog,Czech Republic,1.0,17.0,female,49.94,14.18,unknown,2024-03-19,John Johnson
+Lynx,Slovakia,16.0,65.0,male,48.41,18.84,unknown,2024-03-19,John Johnson
+Red Squirrel,Slovakia,0.33,18.0,unknown,48.18,17.08,unknown,2024-03-19,John Johnson
+Red Squirrel,Slovakia,0.32,23.0,female,48.19,17.09,unknown,2024-03-19,John Johnson
+Hedgehog,Poland,0.4,16.0,female,52.21,21.03,unknown,2024-03-20,Anne Anthony
+Hedgehog,Poland,0.7,26.0,male,52.22,21.03,unknown,2024-03-20,Anne Anthony
+Red Squirrel,Poland,0.35,19.0,female,52.24,21.05,unknown,2024-03-20,Anne Anthony
+Red Squirrel,Hungary,0.28,18.0,female,47.51,18.94,unknown,2024-03-20,Anne Anthony
+Hedgehog,Czech Republic,0.5,13.0,male,49.94,14.18,unknown,2024-03-20,John Johnson
+Lynx,Slovakia,17.0,80.0,female,48.41,18.85,unknown,2024-03-20,John Johnson
+European Bison,PL,302.0,150.0,female,52.82,23.81,unknown,2024-03-21,Anne Anthony
+Hedgehog,Hungary,1.2,29.0,male,48.5,20.56,unknown,2024-03-21,Anne Anthony
+Hedgehog,Poland,1.2,25.0,male,52.21,21.03,unknown,2024-03-21,Anne Anthony
+Lynx,Poland,171.0,75.0,male,52.83,23.81,unknown,2024-03-21,Anne Anthony
+Lynx,Poland,18.0,73.0,female,52.83,23.83,unknown,2024-03-21,Anne Anthony
+Red Squirrel,Poland,0.33,23.0,male,50.04,19.95,unknown,2024-03-21,Anne Anthony
+Red Squirrel,Poland,,,male,50.04,19.95,unknown,2024-03-21,Anne Anthony
+Red Squirrel,Hungary,0.32,19.0,male,47.51,18.94,unknown,2024-03-21,Anne Anthony
+Hedgehog,Austria,0.8,24.0,male,47.78,14.38,unknown,2024-03-21,Bob Bobson
+Hedgehog,Australia,0.6,14.0,female,47.78,14.38,unknown,2024-03-21,Bob Bobson
+Hedgehog,DE,1.1,21.0,male,52.59,13.15,Bob Bobson,2024-03-21,Bob Bobson
+Hedgehog,Germany,1.1,22.0,female,52.58,13.15,Bob Bobson,2024-03-21,Bob Bobson
+Lynx,Austria,20.0,74.0,female,47.78,14.38,unknown,2024-03-21,Bob Bobson
+Red Squirrel,Germany,0.32,20.0,male,52.58,13.15,Bob Bobson,2024-03-21,Bob Bobson
+Red Squirrel,DE,0.28,21.0,female,52.58,13.15,Bob Bobson,2024-03-21,Bob Bobson
+Red Squirrel,Germany,0.34,21.0,male,52.59,13.15,Bob Bobson,2024-03-21,Bob Bobson
+Red Squirrell,Germany,0.34,19.0,female,52.58,13.15,Bob Bobson,2024-03-21,Bob Bobson
+European Bison,CZ,750.0,242.0,male,50.64,14.84,unknown,2024-03-21,John Johnson
+European Bison,Czech Republic,35.0,110.0,male,50.64,14.85,unknown,2024-03-21,John Johnson
+European Bison,Czech Republic,360.0,175.0,female,50.64,14.85,unknown,2024-03-21,John Johnson
+Hedgehog,Czech Republic,1.1,18.0,female,49.94,14.18,unknown,2024-03-21,John Johnson
+Red Squirrel,Czech,0.34,20.0,male,49.94,14.18,unknown,2024-03-21,John Johnson
+Red Squirrel,Slovakia,0.27,23.0,male,48.19,17.09,unknown,2024-03-21,John Johnson
+Red Squirrel,Slovakia,0.33,19.0,male,48.19,17.09,unknown,2024-03-21,John Johnson
+Red Squirrel,Slovakia,0.33,19.0,female,48.19,17.09,unknown,2024-03-21,John Johnson
+European Bison,Poland,1000.0,320.0,male,52.83,23.81,Klucha,2024-03-22,Anne Anthony
+Hedgehog,Hungary,1.1,18.0,male,48.5,20.55,unknown,2024-03-22,Anne Anthony
+Red Squirrel,DE,0.31,23.0,male,52.58,13.15,Bob Bobson,2024-03-22,Bob Bobson
+Red Squirrel,Germany,0.33,19.0,male,52.59,13.15,Bob Bobson,2024-03-22,Bob Bobson
+Red Squirrel,Germany,0.33,21.0,male,52.59,13.15,Bob Bobson,2024-03-22,Bob Bobson
+Red Squirrel,Germany,0.33,19.0,female,52.58,13.15,Bob Bobson,2024-03-22,Bob Bobson
+Red Squirrel,Germany,0.32,22.0,male,52.59,13.15,Bob Bobson,2024-03-22,Bob Bobson
+Red Squirrel,Germany,0.27,21.0,female,52.59,13.15,Bob Bobson,2024-03-22,Bob Bobson
+European Bison,CC,603.0,291.0,male,50.64,14.84,unknown,2024-03-22,John Johnson
+European Bison,CC,717.0,305.0,male,50.64,14.84,unknown,2024-03-22,John Johnson
+European Bison,Czech Republic,390.0,145.0,female,50.64,14.85,unknown,2024-03-22,John Johnson
+Hedgehog,Czech Republic,0.6,21.0,female,49.94,14.18,unknown,2024-03-22,John Johnson
+Hedgehog,CZ,1.1,21.0,male,49.94,14.18,unknown,2024-03-22,John Johnson
+Hedgehog,Czech Republic,0.7,18.0,female,49.94,14.18,unknown,2024-03-22,John Johnson
+Hedgehog,Czech Republic,1.2,23.0,male,49.94,14.18,unknown,2024-03-22,John Johnson
+Lynx,Slovakia,25.0,96.0,female,48.41,18.83,unknown,2024-03-22,John Johnson
+European Bison,Poland,660.0,246.0,female,52.82,23.81,unknown,2024-03-23,Anne Anthony
+European Bison,Poland,619.0,248.0,female,52.83,23.82,unknown,2024-03-23,Anne Anthony
+Hedgehog,HU,0.6,19.0,female,48.5,20.54,unknown,2024-03-23,Anne Anthony
+Hedgehog,Hungary,0.8,25.0,male,48.51,20.55,unknown,2024-03-23,Anne Anthony
+Hedgehog,Hungary,0.4,15.0,female,48.51,20.57,unknown,2024-03-23,Anne Anthony
+Hedgehog,Hungary,1.1,22.0,male,48.51,20.54,unknown,2024-03-23,Anne Anthony
+Hedgehog,Poland,0.8,20.0,female,52.22,21.03,unknown,2024-03-23,Anne Anthony
+Hedgehog,Poland,0.5,19.0,female,52.22,21.03,unknown,2024-03-23,Anne Anthony
+Red Squirrel,Poland,0.35,20.0,female,50.04,19.95,unknown,2024-03-23,Anne Anthony
+Red Squirrel,Hungary,0.3,18.0,male,47.51,18.95,unknown,2024-03-23,Anne Anthony
+Hedgehog,Czech Republic,0.7,20.0,female,49.94,14.18,unknown,2024-03-23,John Johnson
+Hedgehog,Czech Republic,1.0,21.0,female,49.94,14.18,unknown,2024-03-23,John Johnson
+Red Squirrel,PL,0.29,20.0,female,50.04,19.95,unknown,2024-03-24,Anne Anthony
+Red Squirrel,Poland,0.28,21.0,female,50.04,19.95,Zuzia,2024-03-24,Anne Anthony
+Hedgehog,Austria,0.8,18.0,male,47.78,14.38,unknown,2024-03-24,Bob Bobson
+Hedgehog,Austria,0.6,19.0,male,47.78,14.39,unknown,2024-03-24,Bob Bobson
+Hedgehog,Austria,0.5,20.0,male,47.32,11.19,unknown,2024-03-24,Bob Bobson
+Hedgehog,Austria,0.6,16.0,female,47.32,11.19,unknown,2024-03-24,Bob Bobson
+Hedgehog,Austria,0.6,20.0,male,47.32,11.19,unknown,2024-03-24,Bob Bobson
+Hedgehog,Austria,1.1,23.0,female,47.32,11.19,unknown,2024-03-24,Bob Bobson
+Hedgehog,DE,0.8,16.0,male,52.58,13.15,unknown,2024-03-24,Bob Bobson
+Hedgehog,Germany,1.2,23.0,male,52.59,13.15,unknown,2024-03-24,Bob Bobson
+Hedgehog,Germany,0.7,19.0,female,52.59,13.15,unknown,2024-03-24,Bob Bobson
+Hedgehog,Germany,0.9,151.0,female,52.58,13.15,unknown,2024-03-24,Bob Bobson
+Hedgehog,Germany,1.2,22.0,male,52.59,13.15,unknown,2024-03-24,Bob Bobson
+Hedgehog,Germany,0.7,16.0,female,52.59,13.15,unknown,2024-03-24,Bob Bobson
+Hedgehog,Germany,0.6,25.0,male,52.59,13.15,unknown,2024-03-24,Bob Bobson
+Hedgehog,Germany,1.0,24.0,male,52.59,13.15,unknown,2024-03-24,Bob Bobson
+Red Squirrel,Germany,0.31,23.0,female,52.59,13.15,unknown,2024-03-24,Bob Bobson
+Red Squirrel,Germany,0.27,21.0,male,52.59,13.15,unknown,2024-03-24,Bob Bobson
+Red Squirrel,Austria,0.32,21.0,male,47.78,14.39,unknown,2024-03-24,Bob Bobson
+Red Squirrel,Austria,0.27,20.0,female,47.78,14.38,unknown,2024-03-24,Bob Bobson
+Red Squirrel,Austria,0.34,20.0,male,47.78,14.38,unknown,2024-03-24,Bob Bobson
+Red Squirrel,Austria,0.33,18.0,female,47.78,14.38,unknown,2024-03-24,Bob Bobson
+Red Squirrell,Germany,0.29,19.0,female,52.58,13.15,unknown,2024-03-24,Bob Bobson
+Hedgehog,Czech Republic,0.8,18.0,male,49.94,14.18,unknown,2024-03-24,John Johnson
+Red Squirrel,Czech Republic,0.34,22.0,female,49.94,14.18,unknown,2024-03-24,John Johnson
+Red Squirrel,Slovakia,0.2,14.0,female,48.19,17.09,unknown,2024-03-24,John Johnson
+Hedgehog,Poland,0.9,22.0,female,52.21,21.03,unknown,2024-03-25,Anne Anthony
+Hedgehog,Poland,1.0,21.0,male,52.21,21.03,unknown,2024-03-25,Anne Anthony
+Hedgehog,CZ,0.4,12.0,female,49.94,14.18,unknown,2024-03-25,John Johnson
+Red Squirrel,Czech Republic,0.34,23.0,male,49.94,14.18,unknown,2024-03-25,John Johnson
+Red Squirrel,Slovakia,0.25,18.0,male,48.24,17.09,unknown,2024-03-25,John Johnson
+Red Squirrel,Slovakia,0.29,23.0,male,48.23,17.08,unknown,2024-03-25,John Johnson
+Red Squirrel,Slovakia,0.26,22.0,female,48.24,17.07,unknown,2024-03-25,John Johnson
+European Bison,Poland,823.0,305.0,male,52.82,23.81,unknown,2024-03-26,Anne Anthony
+European Bison,Poland,594.0,243.0,male,52.83,23.81,unknown,2024-03-26,Anne Anthony
+Red Squirrel,Poland,0.31,24.0,male,50.04,19.95,unknown,2024-03-26,Anne Anthony
+Red Squirrel,Hungary,0.25,20.0,female,47.51,18.94,unknown,2024-03-26,Anne Anthony
+Hedgehog,Czech Republic,0.7,16.0,male,49.94,14.18,unknown,2024-03-26,John Johnson
+Hedgehog,Czech Republic,0.6,17.0,female,49.94,14.18,unknown,2024-03-26,John Johnson
+Hedgehog,Poland,1.1,20.0,female,52.21,21.03,unknown,2024-03-27,Anne Anthony
+Red Squirrel,Poland,0.34,19.0,male,50.04,19.95,Lolek,2024-03-27,Anne Anthony
+Hedgehog,Germany,0.7,23.0,female,52.59,13.15,unknown,2024-03-27,Bob Bobson
+Hedgehog,DE,0.7,17.0,male,48.16,11.49,unknown,2024-03-27,Bob Bobson
+Hedgehog,Germany,0.9,18.0,female,48.16,11.49,unknown,2024-03-27,Bob Bobson
+Hedgehog,Germany,0.5,20.0,male,48.16,11.49,unknown,2024-03-27,Bob Bobson
+Hedgehog,Czech Republic,0.5,16.0,male,49.94,14.18,unknown,2024-03-27,John Johnson
+Hedgehog,Czech Republic,0.8,17.0,female,49.94,14.18,unknown,2024-03-27,John Johnson
+Red Squirrel,CZ,0.28,22.0,male,49.94,14.18,unknown,2024-03-27,John Johnson
+Red Squirrel,Slovakia,0.32,18.0,female,48.23,17.09,unknown,2024-03-27,John Johnson
+Red Squirrell,Czech Republic,0.27,19.0,female,49.94,14.18,unknown,2024-03-27,John Johnson
+European Bison,Poland,510.0,222.0,female,52.81,23.7,unknown,2024-03-28,Anne Anthony
+Red Squirrel,Poland,0.33,23.0,female,50.04,19.95,unknown,2024-03-28,Anne Anthony
+Red Squirrel,Poland,0.28,23.0,female,50.04,19.95,unknown,2024-03-28,Anne Anthony
+Hedgehog,Czech Republic,0.6,18.0,female,49.94,14.18,unknown,2024-03-28,John Johnson
+Hedgehog,Czech Republic,0.7,15.0,female,49.94,14.18,unknown,2024-03-28,John Johnson
+Red Squirrel,Hungary,0.27,23.0,female,47.51,18.94,unknown,2024-03-29,Anne Anthony
+Red Squirrel,Austria,0.34,20.0,female,47.78,14.38,Bibi,2024-03-29,Bob Bobson
+Red Squirrel,Austria,0.29,19.0,male,47.78,14.38,unknown,2024-03-29,Bob Bobson
+Red Squirrell,Austria,0.34,22.0,male,47.78,14.39,unknown,2024-03-29,Bob Bobson
+Hedgehog,Slovakia,0.7,16.0,male,48.41,18.86,unknown,2024-03-29,John Johnson
+Lynx,Slovakia,16.0,62.0,female,48.41,18.85,unknown,2024-03-29,John Johnson
+Red Squirrel,Poland,0.29,24.0,male,50.04,19.95,unknown,2024-03-30,Anne Anthony
+Hedgehog,Germany,1.1,25.0,male,48.16,11.49,unknown,2024-03-30,Bob Bobson
+Hedgehog,Germany,0.6,15.0,female,48.16,11.49,unknown,2024-03-30,Bob Bobson
+Hedgehog,Germany,0.5,20.0,female,48.16,11.49,unknown,2024-03-30,Bob Bobson
+Hedgehog,Germany,0.7,20.0,male,48.16,11.49,unknown,2024-03-30,Bob Bobson
+Hedgehog,Germany,0.6,15.0,female,48.16,11.5,unknown,2024-03-30,Bob Bobson
+Hedgehog,Germany,0.5,16.0,female,48.16,11.49,unknown,2024-03-30,Bob Bobson
+Hedgehog,Germany,0.9,19.0,male,48.16,11.49,unknown,2024-03-30,Bob Bobson
+Lynx,Slovakia,21.0,85.0,male,48.41,18.84,unknown,2024-03-30,John Johnson
+Red Squirrel,Czech Republic,0.29,18.0,male,49.94,14.18,unknown,2024-03-30,John Johnson
+Red Squirrel,Slovakia,0.29,21.0,male,48.22,17.09,unknown,2024-03-30,John Johnson
+Red Squirrel,Slovakia,0.29,18.0,male,48.23,17.08,unknown,2024-03-30,John Johnson
+European Bison,Poland,970.0,307.0,male,52.81,23.69,unknown,2024-03-31,Anne Anthony
+Red Squirrel,Poland,0.32,20.0,female,50.04,19.95,unknown,2024-03-31,Anne Anthony
+Red Squirrel,Hungary,0.25,19.0,female,47.51,18.95,unknown,2024-03-31,Anne Anthony
+Hedgehog,Slovakia,0.9,19.0,female,48.41,18.87,unknown,2024-03-31,John Johnson
+Lynx,Slovakia,20.0,78.0,female,48.41,18.87,unknown,2024-03-31,John Johnson
+European Bison,Poland,459.0,212.0,female,52.81,23.68,unknown,2024-04-01,Anne Anthony
+European Bison,Poland,705.0,280.0,female,52.8,23.69,unknown,2024-04-01,Anne Anthony
+Red Squirrel,Poland,0.32,19.0,female,50.04,19.95,unknown,2024-04-01,Anne Anthony
+Red Squirrel,Hungary,0.34,18.0,female,47.51,18.94,unknown,2024-04-01,Anne Anthony
+Hedgehog,Slovakia,1.1,22.0,male,48.41,18.87,unknown,2024-04-01,John Johnson
+Lynx,Czech Republic,26.0,81.0,female,50.88,14.37,unknown,2024-04-01,John Johnson
+Red Squirrel,Czech Republic,0.28,22.0,female,49.94,14.18,unknown,2024-04-01,John Johnson
+Red Squirrel,Slovakia,0.26,22.0,female,48.23,17.09,unknown,2024-04-01,John Johnson
+Hedgehog,Hungary,0.6,20.0,female,48.5,20.55,unknown,2024-04-02,Anne Anthony
+Lynx,Poland,22.0,101.0,male,52.82,23.82,unknown,2024-04-02,Anne Anthony
+Red Squirrel,Poland,0.29,19.0,male,50.04,19.95,unknown,2024-04-02,Anne Anthony
+Red Squirrel,Poland,,,male,50.04,19.95,unknown,2024-04-02,Anne Anthony
+Red Squirrel,Poland,0.31,23.0,female,50.04,19.95,Lola,2024-04-02,Anne Anthony
+Red Squirrel,Poland,0.29,24.0,male,50.04,19.95,unknown,2024-04-02,Anne Anthony
+Red Squirrel,Hungary,0.26,21.0,female,47.51,18.94,unknown,2024-04-02,Anne Anthony
+Hedgehog,Austria,0.8,15.0,female,47.32,11.19,unknown,2024-04-02,Bob Bobson
+Hedgehog,Germany,0.8,18.0,male,48.16,11.49,unknown,2024-04-02,Bob Bobson
+Hedgehog,Germany,0.6,15.0,female,48.16,11.49,unknown,2024-04-02,Bob Bobson
+Hedgehog,Germany,0.8,23.0,male,48.16,11.5,unknown,2024-04-02,Bob Bobson
+Hedgehog,Germany,0.6,16.0,female,48.16,11.49,unknown,2024-04-02,Bob Bobson
+Hedgehog,Germany,0.7,19.0,male,48.16,11.5,unknown,2024-04-02,Bob Bobson
+Hedgehog,Germany,1.0,25.0,female,49.55,11.09,unknown,2024-04-02,Bob Bobson
+Hedgehog,Germany,1.1,23.0,male,49.56,11.08,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Austria,0.27,19.0,female,47.78,14.39,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Austria,0.33,18.0,female,47.78,14.39,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Austria,0.26,18.0,female,47.78,14.38,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Austria,0.31,19.0,female,47.78,14.38,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Austria,0.33,21.0,female,47.78,14.38,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Austria,0.27,20.0,female,47.78,14.38,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Austria,0.28,18.0,male,47.78,14.38,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Germany,0.26,19.0,male,48.16,11.49,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Germany,0.26,16.0,female,48.16,11.49,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Germany,0.32,21.0,female,48.16,11.5,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Germany,0.27,18.0,female,48.16,11.49,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Germany,0.28,21.0,male,49.56,11.09,unknown,2024-04-02,Bob Bobson
+Red Squirrel,Germany,0.3,18.0,female,49.56,11.09,unknown,2024-04-02,Bob Bobson
+Red Squirrell,Austria,0.28,18.0,male,47.78,14.39,unknown,2024-04-02,Bob Bobson
+Red Squirrell,Germany,0.32,18.0,male,49.56,11.09,unknown,2024-04-02,Bob Bobson
+Lynx,Slovakia,27.0,94.0,female,48.41,18.86,unknown,2024-04-02,John Johnson
+Red Squirrel,Slovakia,0.34,20.0,male,48.41,18.87,unknown,2024-04-02,John Johnson
+Red Squirrel,Slovakia,0.3,19.0,male,48.41,18.86,unknown,2024-04-02,John Johnson
+Red Squirrel,Slovakia,0.28,19.0,male,48.41,18.87,unknown,2024-04-02,John Johnson
+Red Squirrel,Slovakia,0.25,19.0,female,48.41,18.86,unknown,2024-04-02,John Johnson
+Red Squirrel,Slovakia,0.29,19.0,male,48.23,17.07,unknown,2024-04-02,John Johnson
+Red Squirrel,Hungary,0.29,18.0,male,47.51,18.95,unknown,2024-04-03,Anne Anthony
+Hedgehog,Germany,1.2,22.0,male,49.55,11.08,unknown,2024-04-03,Bob Bobson
+Hedgehog,Germany,0.9,23.0,female,49.56,11.08,unknown,2024-04-03,Bob Bobson
+Hedgehog,Germany,0.7,23.0,female,49.55,11.08,unknown,2024-04-03,Bob Bobson
+Hedgehog,Slovakia,1.2,26.0,male,48.41,18.87,unknown,2024-04-03,John Johnson
+Red Squirrel,Czech Republic,0.26,21.0,female,49.94,14.18,unknown,2024-04-03,John Johnson
+European Bison,Poland,1000.0,295.0,male,52.81,23.71,unknown,2024-04-04,Anne Anthony
+Hedgehog,Hungary,0.7,23.0,female,47.51,18.95,unknown,2024-04-04,Anne Anthony
+Hedgehog,Hungary,1.2,24.0,male,47.51,18.95,unknown,2024-04-04,Anne Anthony
+Red Squirrel,Poland,0.34,22.0,female,50.04,19.95,unknown,2024-04-04,Anne Anthony
+Red Squirrel,Poland,0.27,23.0,female,50.04,19.95,unknown,2024-04-04,Anne Anthony
+Red Squirrel,Hungary,0.26,22.0,male,47.51,18.95,unknown,2024-04-04,Anne Anthony
+European Bison,Poland,557.0,255.0,female,52.81,23.7,unknown,2024-04-05,Anne Anthony
+Hedgehog,Hungary,0.8,17.0,female,47.51,18.95,unknown,2024-04-05,Anne Anthony
+Hedgehog,Austria,0.9,22.0,female,47.32,11.19,unknown,2024-04-05,Bob Bobson
+Hedgehog,Austria,0.8,16.0,male,47.32,11.19,unknown,2024-04-05,Bob Bobson
+Hedgehog,Austria,0.7,18.0,male,47.32,11.18,unknown,2024-04-05,Bob Bobson
+Hedgehog,Austria,0.8,20.0,female,47.32,11.19,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Austria,0.3,20.0,female,47.78,14.38,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Australia,0.27,20.0,female,47.78,14.38,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Austria,0.31,18.0,male,47.78,14.39,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Austria,0.26,22.0,male,47.78,14.39,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Austria,0.32,20.0,male,47.78,14.38,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Austria,0.33,18.0,female,47.78,14.38,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Austria,0.25,21.0,male,47.86,15.08,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Germany,0.32,20.0,female,49.55,11.08,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Germany,0.33,20.0,male,49.55,11.08,unknown,2024-04-05,Bob Bobson
+Red Squirrel,Germany,0.26,19.0,female,49.56,11.08,unknown,2024-04-05,Bob Bobson
+Hedgehog,Slovakia,0.8,21.0,female,48.41,18.87,unknown,2024-04-05,John Johnson
+Lynx,Czech Republic,15.0,70.0,male,50.88,14.37,unknown,2024-04-05,John Johnson
+Red Squirrel,Slovakia,0.3,19.0,female,48.23,17.09,unknown,2024-04-05,John Johnson
+European Bison,Poland,589.0,279.0,female,52.81,23.71,unknown,2024-04-06,Anne Anthony
+Hedgehog,HU,0.7,16.0,female,47.51,18.94,unknown,2024-04-06,Anne Anthony
+Hedgehog,Hungary,0.8,14.0,female,47.51,18.95,unknown,2024-04-06,Anne Anthony
+Red Squirrel,Poland,0.35,23.0,male,50.04,19.95,unknown,2024-04-06,Anne Anthony
+Red Squirrel,Austria,0.29,22.0,male,47.86,15.08,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.3,19.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.31,19.0,female,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.3,20.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.3,21.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.3,19.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.27,20.0,female,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.32,21.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.3,21.0,female,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.3,21.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.26,22.0,female,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.25,21.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.3,22.0,female,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.26,22.0,female,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.3,20.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.24,19.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.31,20.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.24,20.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.25,22.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.27,20.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.29,20.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.32,20.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.3,21.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.24,19.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.25,22.0,male,,,unknown,2024-04-06,Bob Bobson
+Red Squirrel,Germany,0.29,21.0,male,,,unknown,2024-04-06,Bob Bobson
+Hedgehog,Slovakia,0.8,17.0,male,48.41,18.87,unknown,2024-04-06,John Johnson
+Lynx,Czech Republic,26.0,88.0,female,50.88,14.37,unknown,2024-04-06,John Johnson
+Red Squirrel,Czech Republic,0.32,23.0,female,49.94,14.18,unknown,2024-04-06,John Johnson
+Red Squirrel,Czech Republic,0.33,21.0,male,49.94,14.18,unknown,2024-04-06,John Johnson
+Red Squirrel,Czech Republic,0.29,18.0,male,49.94,14.18,unknown,2024-04-06,John Johnson
+Red Squirrel,Czech Republic,0.31,22.0,female,49.94,14.18,unknown,2024-04-06,John Johnson
+European Bison,Poland,1100.0,350.0,male,52.8,23.69,unknown,2024-04-07,Anne Anthony
+Hedgehog,Hungary,0.9,16.0,female,47.51,18.94,unknown,2024-04-07,Anne Anthony
+Lynx,Poland,23.0,73.0,male,52.82,23.81,unknown,2024-04-07,Anne Anthony
+Red Squirrel,Hungary,0.32,18.0,male,47.51,18.94,unknown,2024-04-07,Anne Anthony
+Red Squirrell,Hungary,0.28,21.0,female,47.51,18.94,unknown,2024-04-07,Anne Anthony
+Red Squirrel,Austria,0.26,22.0,female,47.86,15.08,unknown,2024-04-07,Bob Bobson
+Red Squirrel,Austria,0.33,19.0,male,47.86,15.08,unknown,2024-04-07,Bob Bobson
+Red Squirrel,Austria,0.28,21.0,male,47.86,15.08,unknown,2024-04-07,Bob Bobson
+Red Squirrel,Austria,0.33,22.0,female,47.86,15.08,Lola,2024-04-07,Bob Bobson
+Red Squirrel,Austria,0.32,23.0,male,47.86,15.08,unknown,2024-04-07,Bob Bobson
+Hedgehog,Slovakia,1.1,16.0,female,48.41,18.88,unknown,2024-04-07,John Johnson
+Red Squirrel,PL,0.26,22.0,female,50.04,19.95,unknown,2024-04-08,Anne Anthony
+Red Squirrel,Austria,0.27,23.0,female,47.85,15.08,unknown,2024-04-08,Bob Bobson
+Red Squirrel,Austria,0.3,19.0,female,47.85,15.08,Sissi,2024-04-08,Bob Bobson
+Red Squirrel,Austria,0.3,21.0,male,47.86,15.08,unknown,2024-04-08,Bob Bobson
+Red Squirrel,Austria,0.34,19.0,male,47.86,15.08,unknown,2024-04-08,Bob Bobson
+Red Squirrel,Austria,0.28,21.0,female,47.85,15.08,unknown,2024-04-08,Bob Bobson
+Red Squirrel,Austria,0.33,19.0,female,47.85,15.08,Sissi,2024-04-08,Bob Bobson
+Red Squirrel,Austria,0.32,23.0,male,47.85,15.08,unknown,2024-04-08,Bob Bobson
+European Bison,CC,560.0,250.0,female,50.65,14.84,unknown,2024-04-08,John Johnson
+Hedgehog,Slovakia,1.1,25.0,male,48.41,18.87,unknown,2024-04-08,John Johnson
+Red Squirrel,Slovakia,0.25,21.0,male,49.06,22.42,unknown,2024-04-08,John Johnson
+Red Squirrel,Slovakia,0.26,18.0,male,49.05,22.41,unknown,2024-04-08,John Johnson
+Red Squirrel,Slovakia,0.33,20.0,male,49.05,22.41,unknown,2024-04-08,John Johnson
+Red Squirrel,Slovakia,0.33,21.0,female,49.06,22.41,unknown,2024-04-08,John Johnson
+Red Squirrel,Slovakia,0.27,23.0,male,49.05,22.42,unknown,2024-04-08,John Johnson
+Red Squirrel,Slovakia,0.3,18.0,female,49.06,22.42,unknown,2024-04-08,John Johnson
+Red Squirrel,Slovakia,0.28,23.0,male,49.06,22.42,unknown,2024-04-08,John Johnson
+Red Squirrel,Slovakia,0.32,22.0,female,49.05,22.41,unknown,2024-04-08,John Johnson
+Red Squirrel,Slovakia,0.26,18.0,male,49.06,22.42,unknown,2024-04-08,John Johnson
+Red Squirrel,Poland,0.3,22.0,male,50.04,19.95,unknown,2024-04-09,Anne Anthony
+Red Squirrel,Hungary,0.26,20.0,female,47.51,18.94,unknown,2024-04-09,Anne Anthony
+Red Squirrel,Czech Republic,0.31,21.0,male,49.94,14.18,unknown,2024-04-09,John Johnson
+Red Squirrel,Czech Republic,0.28,19.0,female,49.94,14.18,unknown,2024-04-09,John Johnson
+European Bison,PL,486.0,235.0,female,52.81,23.7,unknown,2024-04-10,Anne Anthony
+Lynx,PL,22.0,78.0,male,52.82,23.82,unknown,2024-04-10,Anne Anthony
+Hedgehog,Slovakia,1.2,26.0,male,48.41,18.86,unknown,2024-04-10,John Johnson
+Red Squirrel,Czech Republic,0.26,21.0,male,50.11,14.35,unknown,2024-04-10,John Johnson
+European Bison,Poland,610.0,281.0,female,52.81,23.69,unknown,2024-04-11,Anne Anthony
+Hedgehog,Hungary,0.8,17.0,female,47.51,18.94,unknown,2024-04-11,Anne Anthony
+Red Squirrel,Poland,0.32,20.0,female,50.04,19.95,unknown,2024-04-11,Anne Anthony
+Red Squirrel,Hungary,0.28,21.0,female,47.51,18.95,unknown,2024-04-11,Anne Anthony
+Red Squirrel,Hungary,0.28,20.0,male,47.51,18.94,unknown,2024-04-11,Anne Anthony
+Red Squirrel,Australia,0.31,23.0,male,47.86,15.08,unknown,2024-04-11,Bob Bobson
+Red Squirrel,Austria,0.26,19.0,male,47.85,15.08,unknown,2024-04-11,Bob Bobson
+Red Squirrel,Austria,0.28,23.0,male,47.86,15.08,unknown,2024-04-11,Bob Bobson
+Red Squirrel,Germany,0.3,19.0,female,48.16,11.49,unknown,2024-04-11,Bob Bobson
+Red Squirrel,Germany,0.27,19.0,male,48.16,11.49,unknown,2024-04-11,Bob Bobson
+Red Squirrel,Germany,0.27,22.0,female,48.16,11.49,unknown,2024-04-11,Bob Bobson
+Red Squirrel,Germany,0.26,20.0,female,48.16,11.49,unknown,2024-04-11,Bob Bobson
+Red Squirrel,Germany,0.3,18.0,male,48.16,11.49,unknown,2024-04-11,Bob Bobson
+Lynx,Slovakia,22.0,88.0,male,48.41,18.86,unknown,2024-04-11,John Johnson
+Red Squirrel,Czech Republic,0.31,22.0,female,50.11,14.35,unknown,2024-04-11,John Johnson
+European Bison,Poland,853.0,287.0,male,52.8,23.69,unknown,2024-04-12,Anne Anthony
+Red Squirrel,Germany,0.3,18.0,female,48.16,11.5,unknown,2024-04-12,Bob Bobson
+Hedgehog,Slovakia,1.0,20.0,female,48.41,18.86,unknown,2024-04-12,John Johnson
+Red Squirrel,Czech Republic,0.32,21.0,female,50.11,14.35,unknown,2024-04-12,John Johnson
+Hedgehog,HU,1.2,23.0,male,47.51,18.94,unknown,2024-04-13,Anne Anthony
+Red Squirrel,Poland,0.26,20.0,male,50.04,19.95,unknown,2024-04-13,Anne Anthony
+Red Squirrel,Poland,,,male,50.04,19.95,unknown,2024-04-13,Anne Anthony
+Red Squirrel,Poland,0.32,23.0,female,50.04,19.95,unknown,2024-04-13,Anne Anthony
+Red Squirrel,Poland,0.3,23.0,male,52.21,21.03,unknown,2024-04-13,Anne Anthony
+Hedgehog,Slovakia,0.8,23.0,male,48.41,18.87,unknown,2024-04-13,John Johnson
+Hedgehog,Slovakia,0.8,16.0,male,48.41,18.87,unknown,2024-04-13,John Johnson
+Hedgehog,Hungary,0.4,17.0,female,47.51,18.95,unknown,2024-04-14,Anne Anthony
+Lynx,Poland,20.0,90.0,female,52.82,23.82,unknown,2024-04-14,Anne Anthony
+Red Squirrel,Hungary,0.3,18.0,male,47.51,18.95,unknown,2024-04-14,Anne Anthony
+Red Squirrel,Hungary,0.31,20.0,female,47.51,18.95,unknown,2024-04-14,Anne Anthony
+Red Squirrel,Hungary,0.27,19.0,male,47.51,18.94,unknown,2024-04-14,Anne Anthony
+Red Squirrel,Germany,0.26,22.0,male,48.16,11.49,unknown,2024-04-14,Bob Bobson
+European Bison,Poland,700.0,286.0,male,52.81,23.7,unknown,2024-04-15,Anne Anthony
+Hedgehog,Hungary,0.7,15.0,male,47.51,18.95,unknown,2024-04-15,Anne Anthony
+Red Squirrel,Poland,0.28,21.0,female,52.21,21.03,unknown,2024-04-15,Anne Anthony
+Red Squirrel,Germany,0.34,19.0,female,48.16,11.49,unknown,2024-04-15,Bob Bobson
+Red Squirrel,Germany,0.31,22.0,male,48.16,11.49,unknown,2024-04-15,Bob Bobson
+Red Squirrel,Germany,0.26,20.0,female,48.16,11.49,unknown,2024-04-15,Bob Bobson
+Red Squirrel,Germany,0.29,20.0,male,48.16,11.49,unknown,2024-04-15,Bob Bobson
+Red Squirrel,Germany,0.32,18.0,female,48.16,11.49,unknown,2024-04-15,Bob Bobson
+Red Squirrel,Germany,0.29,21.0,male,48.16,11.49,unknown,2024-04-15,Bob Bobson
+Red Squirrel,Germany,0.33,18.0,female,48.16,11.49,unknown,2024-04-15,Bob Bobson
+Red Squirrel,Germany,0.27,21.0,female,48.16,11.49,unknown,2024-04-15,Bob Bobson
+Hedgehog,Slovakia,0.5,18.0,female,48.41,18.87,unknown,2024-04-15,John Johnson
+Red Squirrel,Czech Republic,0.32,19.0,male,50.11,14.35,unknown,2024-04-15,John Johnson
+Hedgehog,Hungary,0.5,19.0,female,47.51,18.95,unknown,2024-04-16,Anne Anthony
+Hedgehog,Hungary,0.6,15.0,male,47.51,18.94,unknown,2024-04-16,Anne Anthony
+Red Squirrel,Hungary,0.25,20.0,female,47.51,18.95,unknown,2024-04-16,Anne Anthony
+Red Squirrel,Germany,0.31,19.0,male,48.16,11.49,unknown,2024-04-16,Bob Bobson
+Red Squirrel,Germany,0.2,14.0,male,49.55,11.09,unknown,2024-04-16,Bob Bobson
+Red Squirrel,Germany,0.28,18.0,female,49.56,11.1,unknown,2024-04-16,Bob Bobson
+Hedgehog,Slovakia,0.6,25.0,male,48.41,18.88,unknown,2024-04-16,John Johnson
+Red Squirrel,Poland,0.3,19.0,female,52.21,21.03,unknown,2024-04-17,Anne Anthony
+Hedgehog,Germany,0.7,21.0,male,49.56,11.08,unknown,2024-04-17,Bob Bobson
+Hedgehog,Germany,1.2,28.0,male,49.55,11.08,unknown,2024-04-17,Bob Bobson
+Hedgehog,Germany,0.5,18.0,female,49.55,11.09,unknown,2024-04-17,Bob Bobson
+Hedgehog,Germany,1.0,20.0,male,49.56,11.1,unknown,2024-04-17,Bob Bobson
+Hedgehog,Germany,0.9,25.0,male,49.56,11.08,unknown,2024-04-17,Bob Bobson
+Hedgehog,Germany,0.4,16.0,female,49.56,11.08,unknown,2024-04-17,Bob Bobson
+Red Squirrel,Germany,0.29,20.0,male,49.55,11.08,unknown,2024-04-17,Bob Bobson
+Red Squirrel,Germany,0.3,23.0,female,49.55,11.08,unknown,2024-04-17,Bob Bobson
+Hedgehog,Slovakia,1.1,23.0,male,48.19,17.09,unknown,2024-04-17,John Johnson
+Lynx,Slovakia,27.0,100.0,male,48.41,18.86,unknown,2024-04-17,John Johnson
+Red Squirrel,Czech Republic,0.28,22.0,female,50.11,14.35,unknown,2024-04-17,John Johnson
+Red Squirrel,Czech Republic,0.28,22.0,female,50.11,14.35,unknown,2024-04-17,John Johnson
+European Bison,Poland,405.0,220.0,female,52.8,23.68,unknown,2024-04-18,Anne Anthony
+Hedgehog,Germany,1.0,24.0,male,49.56,11.08,unknown,2024-04-18,Bob Bobson
+Hedgehog,Germany,0.6,11.0,male,49.56,11.1,unknown,2024-04-18,Bob Bobson
+Hedgehog,Germany,0.7,25.0,male,49.55,11.09,unknown,2024-04-18,Bob Bobson
+Hedgehog,Germany,0.6,22.0,female,49.56,11.1,unknown,2024-04-18,Bob Bobson
+Hedgehog,Germany,0.5,20.0,male,49.56,11.1,unknown,2024-04-18,Bob Bobson
+Hedgehog,Germany,0.9,25.0,male,49.55,11.09,unknown,2024-04-18,Bob Bobson
+Hedgehog,Germany,0.5,16.0,female,49.56,11.09,unknown,2024-04-18,Bob Bobson
+Hedgehog,Germany,0.8,17.0,male,49.55,11.09,unknown,2024-04-18,Bob Bobson
+Red Squirrel,Czech Republic,0.33,23.0,male,50.11,14.35,unknown,2024-04-18,John Johnson
+European Bison,Poland,662.0,244.0,female,52.81,23.68,unknown,2024-04-19,Anne Anthony
+Red Squirrel,Poland,0.34,23.0,male,52.21,21.03,unknown,2024-04-19,Anne Anthony
+Hedgehog,Austria,0.6,17.0,female,47.32,11.19,unknown,2024-04-19,Bob Bobson
+Hedgehog,Austria,0.9,25.0,male,47.32,11.19,unknown,2024-04-19,Bob Bobson
+Hedgehog,Austria,1.1,22.0,male,47.32,11.19,unknown,2024-04-19,Bob Bobson
+Hedgehog,Austria,1.2,24.0,male,47.32,11.19,unknown,2024-04-19,Bob Bobson
+European Bison,CC,656.0,245.0,female,50.64,14.84,unknown,2024-04-19,John Johnson
+Hedgehog,Slovakia,1.1,19.0,female,48.19,17.09,unknown,2024-04-19,John Johnson
+Hedgehog,Slovakia,1.1,29.0,male,48.19,17.08,unknown,2024-04-19,John Johnson
+Lynx,Czech Republic,12.0,52.0,male,78.58,14.37,unknown,2024-04-19,John Johnson
+Lynx,Slovakia,24.0,81.0,female,48.41,18.87,unknown,2024-04-19,John Johnson
+Lynx,Czech Republic,22.0,83.0,female,50.88,14.37,unknown,2024-04-19,John Johnson
+Red Squirrel,Poland,0.33,23.0,male,52.21,21.03,unknown,2024-04-20,Anne Anthony
+Red Squirrel,Poland,0.34,24.0,female,52.21,21.03,Basia,2024-04-20,Anne Anthony
+Red Squirrel,Poland,0.32,24.0,male,52.21,21.03,unknown,2024-04-20,Anne Anthony
+Red Squirrel,Poland,0.33,23.0,male,52.21,21.03,Puchatek,2024-04-20,Anne Anthony
+European Bison,Poland,776.0,294.0,male,52.81,23.7,unknown,2024-04-21,Anne Anthony
+Hedgehog,Slovakia,0.8,18.0,male,48.19,17.09,unknown,2024-04-21,John Johnson
+Red Squirrel,Poland,0.31,19.0,female,52.21,21.03,unknown,2024-04-22,Anne Anthony
+Red Squirrel,Poland,0.35,20.0,female,52.21,21.03,unknown,2024-04-22,Anne Anthony
+Lynx,Czech Republic,23.0,78.0,male,78.58,14.37,unknown,2024-04-22,John Johnson
+Hedgehog,Slovakia,0.7,16.0,male,48.18,17.09,unknown,2024-04-23,John Johnson
+European Bison,Poland,650.0,286.0,female,52.81,23.69,unknown,2024-04-24,Anne Anthony
+Red Squirrel,Poland,0.27,19.0,female,52.21,21.03,unknown,2024-04-24,Anne Anthony
+Red Squirrel,Poland,0.33,24.0,female,52.21,21.03,unknown,2024-04-24,Anne Anthony
+Lynx,Austria,20.0,90.0,male,47.78,14.39,unknown,2024-04-24,Bob Bobson
+Lynx,Austria,26.0,91.0,female,47.78,14.38,unknown,2024-04-24,Bob Bobson
+Hedgehog,Slovakia,0.6,15.0,female,48.19,17.08,unknown,2024-04-24,John Johnson
+Lynx,Poland,14.0,65.0,female,52.85,23.89,unknown,2024-04-25,Anne Anthony
+Red Squirrel,Poland,0.31,21.0,male,52.21,21.03,unknown,2024-04-25,Anne Anthony
+Hedgehog,Slovakia,0.7,16.0,male,48.19,17.09,unknown,2024-04-26,John Johnson
+Red Squirrel,Poland,0.29,24.0,female,52.21,21.03,unknown,2024-04-27,Anne Anthony
+Hedgehog,Slovakia,1.2,22.0,male,48.19,17.09,unknown,2024-04-27,John Johnson
+Hedgehog,Slovakia,0.7,24.0,female,48.19,17.09,unknown,2024-04-27,John Johnson
+Lynx,Poland,12.0,52.0,male,52.85,23.89,unknown,2024-04-28,Anne Anthony
+Lynx,Poland,27.0,95.0,female,52.85,23.92,unknown,2024-04-28,Anne Anthony
+Red Squirrel,Poland,0.31,23.0,male,52.21,21.03,unknown,2024-04-28,Anne Anthony
+Hedgehog,Germany,0.5,20.0,male,49.55,11.07,unknown,2024-04-28,Bob Bobson
+Hedgehog,Germany,1.1,20.0,female,49.55,11.08,unknown,2024-04-28,Bob Bobson
+Hedgehog,Germany,0.6,18.0,male,49.55,11.08,unknown,2024-04-28,Bob Bobson
+Hedgehog,Germany,0.8,20.0,male,49.56,11.09,unknown,2024-04-28,Bob Bobson
+Hedgehog,Germany,0.8,19.0,male,49.56,11.11,unknown,2024-04-28,Bob Bobson
+Hedgehog,Slovakia,0.9,20.0,male,48.19,17.09,unknown,2024-04-28,John Johnson
+Hedgehog,Hungary,0.6,16.0,female,47.51,18.94,unknown,2024-04-29,Anne Anthony
+Red Squirrel,Poland,0.27,21.0,female,52.21,21.03,Basia,2024-04-29,Anne Anthony
+Hedgehog,Slovakia,1.1,23.0,male,48.18,17.08,unknown,2024-04-29,John Johnson
+Lynx,Slovakia,22.0,73.0,male,48.41,18.86,unknown,2024-04-29,John Johnson
+Red Squirrel,Poland,0.29,20.0,female,52.21,21.03,unknown,2024-04-30,Anne Anthony
+Red Squirrel,Poland,0.3,19.0,female,52.21,21.03,unknown,2024-05-09,Anne Anthony
+Hedgehog,Slovakia,0.7,22.0,male,48.23,17.07,unknown,2024-05-09,John Johnson
+Hedgehog,Hungary,0.7,16.0,male,47.51,18.94,unknown,2024-05-10,Anne Anthony
+Hedgehog,Hungary,1.0,20.0,male,47.51,18.94,unknown,2024-05-10,Anne Anthony
+Red Squirrel,Poland,0.26,21.0,male,52.21,21.03,unknown,2024-05-11,Anne Anthony
+Hedgehog,Germany,0.7,24.0,male,49.56,11.1,unknown,2024-05-11,Bob Bobson
+Hedgehog,Germany,1.1,19.0,female,49.55,11.08,unknown,2024-05-11,Bob Bobson
+Hedgehog,Slovakia,0.8,24.0,female,48.24,17.09,unknown,2024-05-11,John Johnson
+Hedgehog,Hungary,1.0,23.0,female,47.51,18.94,unknown,2024-05-12,Anne Anthony
+Red Squirrel,Poland,0.27,20.0,male,52.21,21.03,unknown,2024-05-12,Anne Anthony
+Hedgehog,Slovakia,0.5,19.0,male,48.23,17.09,unknown,2024-05-12,John Johnson
+Red Squirrel,Poland,0.27,21.0,female,52.21,21.03,unknown,2024-05-13,Anne Anthony
+Red Squirrel,Poland,0.32,20.0,female,52.21,21.03,unknown,2024-05-13,Anne Anthony
+Hedgehog,Slovakia,1.0,18.0,male,48.23,17.08,unknown,2024-05-13,John Johnson
+Hedgehog,Hungary,0.6,17.0,female,47.51,18.95,unknown,2024-05-14,Anne Anthony
+Red Squirrel,Poland,0.27,23.0,female,52.21,21.03,unknown,2024-05-14,Anne Anthony
+Hedgehog,Slovakia,0.7,22.0,female,48.23,17.09,unknown,2024-05-14,John Johnson
+Red Squirrel,Poland,0.28,22.0,male,52.21,21.03,unknown,2024-05-15,Anne Anthony
+Hedgehog,Hungary,1.0,18.0,female,47.51,18.94,unknown,2024-05-16,Anne Anthony
+Hedgehog,Slovakia,0.4,13.0,male,48.24,17.08,unknown,2024-05-16,John Johnson
+Hedgehog,Hungary,,,male,47.51,18.95,unknown,2024-05-17,Anne Anthony
+Hedgehog,Hungary,0.7,11.0,female,47.51,18.95,unknown,2024-05-17,Anne Anthony
+Red Squirrel,Poland,0.28,19.0,female,52.21,21.03,unknown,2024-05-17,Anne Anthony
+Red Squirrel,Poland,0.26,19.0,male,52.21,21.03,unknown,2024-05-17,Anne Anthony
+Red Squirrel,Poland,0.29,24.0,female,52.21,21.03,unknown,2024-05-17,Anne Anthony
+Hedgehog,Slovakia,0.6,20.0,male,48.24,17.08,unknown,2024-05-17,John Johnson
+Hedgehog,Slovakia,0.8,16.0,female,48.23,17.08,unknown,2024-05-17,John Johnson
+Lynx,Slovakia,18.0,76.0,male,48.41,18.87,unknown,2024-05-17,John Johnson
+Red Squirrel,Poland,0.31,21.0,male,52.21,21.03,unknown,2024-05-18,Anne Anthony
+Red Squirrel,Poland,0.28,22.0,male,52.21,21.03,unknown,2024-05-18,Anne Anthony
+Hedgehog,Hungary,1.1,22.0,female,47.51,18.94,unknown,2024-05-19,Anne Anthony
+Hedgehog,Slovakia,0.6,19.0,female,48.24,17.07,unknown,2024-05-19,John Johnson
+Lynx,Slovakia,22.0,85.0,male,48.41,18.86,unknown,2024-05-19,John Johnson
+Red Squirrel,Poland,0.34,21.0,female,52.21,21.03,unknown,2024-05-20,Anne Anthony
+Red Squirrel,Poland,0.34,22.0,female,52.21,21.03,unknown,2024-05-21,Anne Anthony
+Red Squirrel,Poland,0.31,19.0,female,52.21,21.03,unknown,2024-05-21,Anne Anthony
+Hedgehog,Slovakia,1.2,25.0,male,48.23,17.07,unknown,2024-05-21,John Johnson
+Hedgehog,Slovakia,0.4,16.0,female,48.24,17.07,unknown,2024-05-21,John Johnson
+Red Squirrel,Poland,0.31,23.0,male,52.21,21.03,unknown,2024-05-22,Anne Anthony
+Red Squirrel,Poland,0.31,22.0,female,52.21,21.03,unknown,2024-05-22,Anne Anthony
+Red Squirrel,Poland,0.29,23.0,male,52.21,21.03,unknown,2024-05-23,Anne Anthony
+Hedgehog,Slovakia,0.5,16.0,male,48.23,17.08,unknown,2024-05-23,John Johnson
+Lynx,Czech Republic,21.0,91.0,female,50.88,14.37,unknown,2024-05-23,John Johnson
+Red Squirrel,Poland,0.35,22.0,female,52.21,21.03,unknown,2024-05-24,Anne Anthony
+Hedgehog,Slovakia,0.7,20.0,female,48.23,17.08,unknown,2024-05-24,John Johnson
+Red Squirrel,Poland,,,male,52.21,21.03,unknown,2024-05-25,Anne Anthony
+Red Squirrel,Poland,0.33,24.0,female,52.82,23.81,unknown,2024-05-26,Anne Anthony
+Hedgehog,Slovakia,0.8,18.0,male,48.24,17.09,unknown,2024-05-26,John Johnson
+Hedgehog,Slovakia,0.7,18.0,female,48.23,17.07,unknown,2024-05-27,John Johnson
+Red Squirrel,Poland,0.27,23.0,male,52.82,23.81,unknown,2024-05-28,Anne Anthony
+Red Squirrel,Poland,0.31,19.0,female,52.82,23.82,Basia,2024-05-29,Anne Anthony
+Hedgehog,Slovakia,0.8,18.0,male,48.23,17.08,unknown,2024-05-29,John Johnson
+Lynx,Slovakia,25.0,101.0,female,48.41,18.86,unknown,2024-05-29,John Johnson
+Hedgehog,Slovakia,0.6,18.0,female,48.24,17.09,unknown,2024-05-30,John Johnson
+Red Squirrel,Poland,0.32,24.0,female,52.82,23.81,unknown,2024-05-31,Anne Anthony
+Red Squirrel,Poland,0.29,22.0,female,52.82,23.81,unknown,2024-05-31,Anne Anthony
+Red Squirrel,Poland,0.3,24.0,male,52.83,23.81,unknown,2024-05-31,Anne Anthony
+Red Squirrel,Poland,0.3,20.0,female,52.82,23.81,unknown,2024-05-31,Anne Anthony
+Hedgehog,Slovakia,0.6,15.0,male,48.23,17.09,unknown,2024-05-31,John Johnson
+Lynx,Slovakia,30.0,115.0,male,48.41,18.87,unknown,2024-05-31,John Johnson
+Red Squirrel,Poland,0.32,20.0,male,52.82,23.82,unknown,2024-06-01,Anne Anthony
+Red Squirrel,Poland,0.28,22.0,male,52.83,23.82,unknown,2024-06-01,Anne Anthony
+Red Squirrel,Poland,0.3,24.0,female,52.82,23.81,unknown,2024-06-01,Anne Anthony
+Red Squirrel,Poland,0.32,23.0,male,52.83,23.82,unknown,2024-06-01,Anne Anthony
+Red Squirrel,Poland,0.34,22.0,female,52.82,23.81,unknown,2024-06-01,Anne Anthony
+Red Squirrel,Poland,0.32,22.0,female,52.82,23.82,unknown,2024-06-01,Anne Anthony
+Hedgehog,Slovakia,0.6,15.0,male,48.24,17.07,unknown,2024-06-02,John Johnson
+Hedgehog,Slovakia,0.7,14.0,female,48.24,17.07,unknown,2024-06-03,John Johnson
+Hedgehog,Slovakia,0.7,17.0,female,48.24,17.09,unknown,2024-06-03,John Johnson
+Hedgehog,Slovakia,0.7,24.0,male,48.23,17.07,unknown,2024-06-05,John Johnson
+Red Squirrel,Czech Republic,0.32,19.0,male,50.88,14.37,unknown,2024-06-06,John Johnson
+Red Squirrel,Czech Republic,0.32,19.0,female,50.88,14.37,unknown,2024-06-06,John Johnson
+Lynx,Slovakia,19.0,84.0,female,48.41,18.86,unknown,2024-06-07,John Johnson
+Red Squirrel,Czech Republic,0.29,21.0,female,50.88,14.37,unknown,2024-06-08,John Johnson
+Red Squirrel,Czech Republic,0.26,20.0,male,50.88,14.37,unknown,2024-06-08,John Johnson
+Red Squirrel,Czech Republic,0.33,23.0,male,50.88,14.37,unknown,2024-06-10,John Johnson
+Red Squirrel,Czech Republic,0.28,18.0,female,50.88,14.37,unknown,2024-06-11,John Johnson
+Lynx,Slovakia,23.0,95.0,male,48.41,18.87,unknown,2024-06-19,John Johnson
+Lynx,Slovakia,11.0,52.0,female,48.41,18.87,unknown,2024-06-19,John Johnson
+Lynx,Czech Republic,25.0,97.0,female,50.88,14.37,unknown,2024-06-30,John Johnson
+Lynx,Slovakia,15.0,65.0,female,48.41,18.84,unknown,2024-07-03,James Johnson
+Lynx,Slovakia,18.0,85.0,male,48.41,18.84,unknown,2024-07-03,James Johnson
+Red Squirrel,Slovakia,0.3,20.0,unknown,49.05,22.41,unknown,2024-07-03,James Johnson
+Red Squirrel,Slovakia,0.27,23.0,female,49.06,22.43,unknown,2024-07-03,James Johnson
+Red Squirrel,Slovakia,0.25,19.0,male,49.06,22.41,unknown,2024-07-03,James Johnson
+Red Squirrel,Slovakia,0.3,20.0,female,49.05,22.42,unknown,2024-07-03,James Johnson
+Red Squirrel,Slovakia,0.33,19.0,female,49.06,22.41,unknown,2024-07-03,James Johnson
+Red Squirrell,Slovakia,0.3,20.0,male,49.05,22.41,unknown,2024-07-03,James Johnson
+Hedgehog,Slovakia,1.0,17.0,male,48.23,17.08,unknown,2024-07-05,James Johnson
+Hedgehog,Slovakia,0.6,16.0,female,48.24,17.09,unknown,2024-07-05,James Johnson
+Hedgehog,Slovakia,1.1,20.0,female,48.24,17.07,unknown,2024-07-05,James Johnson
+Red Squirrel,Slovakia,0.33,23.0,male,49.06,22.42,unknown,2024-08-03,James Johnson
+Red Squirrel,Slovakia,0.32,22.0,female,49.05,22.42,unknown,2024-08-03,James Johnson
+Red Squirrel,Slovakia,0.3,20.0,male,49.06,22.42,unknown,2024-08-03,James Johnson
+Lynx,Slovakia,12.0,61.0,male,48.41,18.84,unknown,2024-09-03,James Johnson
+Red Squirrel,Slovakia,0.31,20.0,female,49.06,22.42,unknown,2024-09-03,James Johnson
+Red Squirrel,Slovakia,0.33,19.0,male,48.19,17.09,unknown,2024-09-03,James Johnson
+Red Squirrel,Slovakia,0.33,18.0,female,48.19,17.09,unknown,2024-11-03,James Johnson
+Hedgehog,Hungary,,,male,47.51,18.95,unknown,2024-05-01,Anne Anthony
+Hedgehog,Hungary,0.9,16.0,female,47.51,18.94,unknown,2024-05-01,Anne Anthony
+Red Squirrel,Poland,0.28,21.0,male,52.21,21.03,unknown,2024-05-01,Anne Anthony
+Hedgehog,Slovakia,0.6,19.0,female,48.18,17.09,unknown,2024-05-01,John Johnson
+Lynx,Slovakia,27.0,96.0,male,48.41,18.87,unknown,2024-05-01,John Johnson
+Lynx,Poland,13.0,63.0,female,52.85,23.9,unknown,2024-05-02,Anne Anthony
+Lynx,Poland,20.0,87.0,female,52.85,23.9,unknown,2024-05-02,Anne Anthony
+Red Squirrel,Poland,0.28,22.0,female,52.21,21.03,unknown,2024-05-02,Anne Anthony
+Red Squirrel,Germany,0.3,21.0,female,48.16,11.49,unknown,2024-05-02,Bob Bobson
+European Bison,Czech Republic,727.0,210.0,male,50.64,14.84,unknown,2024-05-02,John Johnson
+Lynx,Slovakia,25.0,107.0,female,48.41,18.87,unknown,2024-05-02,John Johnson
+Hedgehog,Hungary,1.2,26.0,male,47.51,18.95,unknown,2024-05-03,Anne Anthony
+Hedgehog,Slovakia,1.1,22.0,male,48.18,17.09,unknown,2024-05-03,John Johnson
+Red Squirrel,Poland,0.32,19.0,female,52.21,21.03,Zuzia,2024-05-04,Anne Anthony
+Hedgehog,Hungary,0.7,26.0,male,47.51,18.95,unknown,2024-05-05,Anne Anthony
+Hedgehog,Hungary,1.1,21.0,female,47.51,18.95,unknown,2024-05-05,Anne Anthony
+Lynx,Poland,24.0,89.0,female,52.85,23.91,unknown,2024-05-05,Anne Anthony
+Hedgehog,Germany,0.6,23.0,female,49.56,11.08,unknown,2024-05-05,Bob Bobson
+Hedgehog,Germany,0.7,21.0,female,49.56,11.1,unknown,2024-05-05,Bob Bobson
+Hedgehog,Germany,0.6,23.0,male,49.55,11.08,unknown,2024-05-05,Bob Bobson
+Hedgehog,Slovakia,1.0,21.0,male,48.19,17.09,unknown,2024-05-05,John Johnson
+Hedgehog,Slovakia,0.4,16.0,male,48.19,17.09,unknown,2024-05-05,John Johnson
+Hedgehog,Slovakia,0.7,19.0,female,48.18,17.09,unknown,2024-05-05,John Johnson
+Red Squirrel,Poland,0.3,22.0,male,52.21,21.03,unknown,2024-05-06,Anne Anthony
+Red Squirrel,Poland,0.34,22.0,male,52.21,21.03,unknown,2024-05-06,Anne Anthony
+Red Squirrel,Poland,0.31,20.0,female,52.21,21.03,unknown,2024-05-06,Anne Anthony
+Hedgehog,Slovakia,0.8,21.0,male,48.19,17.09,unknown,2024-05-06,John Johnson
+Hedgehog,Hungary,0.9,23.0,male,47.51,18.94,unknown,2024-05-07,Anne Anthony
+Red Squirrel,Poland,0.35,20.0,female,52.21,21.03,Lola,2024-05-07,Anne Anthony
+Hedgehog,Germany,1.0,23.0,female,49.56,11.11,unknown,2024-05-07,Bob Bobson
+Hedgehog,Germany,0.5,17.0,female,49.56,11.09,unknown,2024-05-07,Bob Bobson
+Hedgehog,Hungary,0.9,16.0,female,47.51,18.94,unknown,2024-05-08,Anne Anthony
