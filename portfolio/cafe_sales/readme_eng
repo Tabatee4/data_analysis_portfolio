@@ -1,0 +1,27 @@
+ENG Coffee Shop Sales Data Cleaning (Python)
+
+Project Goal
+
+The goal of this project was to clean and prepare a raw CSV file with coffee shop transactions for further business analysis.
+It demonstrates practical data cleaning, validation, and preprocessing skills.
+
+Data Cleaning Process
+
+Imported and explored the raw dataset using Pandas
+Handled missing values, invalid entries, and incorrect data types
+Replaced errors with NaN and standardized formats
+Removed duplicates and detected potential outliers
+Filled missing values using computed temporary columns
+Saved the cleaned dataset as a new CSV file ready for analysis
+
+Skills Demonstrated
+
+Python & Pandas – data loading, manipulation, and type conversion
+Data Cleaning – handling missing data, duplicates, and outliers
+Data Validation – ensuring consistency and numeric accuracy (e.g., Total Spent)
+Problem Solving – identifying and resolving real-world data issues
+Portfolio-Ready Preparation – dataset ready for dashboards and reports
+
+Outcome
+
+A clean, consistent, and analysis-ready dataset enabling sales reports by product, payment method, and location.
