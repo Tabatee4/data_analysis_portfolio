@@ -1,0 +1,27 @@
+🇵🇱 Oczyszczanie danych sprzedaży kawiarni (Python)
+
+Cel projektu
+
+Celem projektu było przygotowanie surowego pliku CSV z transakcjami kawiarni do dalszej analizy biznesowej.
+Projekt pokazuje umiejętność oczyszczania, walidacji i przygotowania danych do wykorzystania w raportach i wizualizacjach.
+
+Proces oczyszczania danych
+
+Wczytanie danych i wstępna eksploracja przy użyciu biblioteki Pandas
+Obsługa braków danych, błędnych wpisów i nieprawidłowych typów
+Zamiana błędnych wartości na NaN i standaryzacja formatów
+Usuwanie duplikatów oraz identyfikacja potencjalnych outlierów
+Uzupełnianie braków na podstawie kolumn pomocniczych
+Zapis oczyszczonego pliku CSV gotowego do analizy
+
+Umiejętności zaprezentowane w projekcie
+
+Python & Pandas – wczytywanie, manipulacja i konwersja danych
+Czyszczenie danych – obsługa braków, duplikatów, outlierów
+Walidacja danych – sprawdzanie spójności i poprawności wartości (np. Total Spent)
+Rozwiązywanie problemów – diagnoza i poprawa błędów w danych sprzedażowych
+Przygotowanie do analizy BI – gotowy zbiór danych do raportów i dashboardów
+
+ Wynik
+
+Otrzymano spójny i kompletny zestaw danych, który może służyć do raportowania sprzedaży według produktów, metod płatności i lokalizacji.
