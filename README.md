@@ -50,3 +50,60 @@ Each project focuses on different aspects of data processing — from raw data c
 
 ### 📈 Outcome
 Each project demonstrates practical data analytics skills — from collecting and cleaning data, through SQL querying, to creating clear and business-relevant insights in visual form.
+
+---
+
+---
+
+## **Polska wersja**
+
+---
+
+### 🧩 Opis ogólny
+
+Repozytorium zawiera zestaw projektów analitycznych i czyszczących dane wykonanych w **Pythonie**, **SQL**, **Excelu** i **Power BI**.  
+Każdy projekt przedstawia inny etap procesu analizy danych – od przygotowania surowych plików CSV, przez walidację i obróbkę danych, aż po wizualizację wyników.
+
+---
+
+### 🧠 Podsumowanie projektów
+
+#### 1. Oczyszczanie danych sprzedaży kawiarni (Python)
+**Cel:** Przygotowanie surowych danych transakcyjnych kawiarni do analizy.  
+**Umiejętności:** Czyszczenie danych, obsługa braków, konwersje typów, walidacja danych, przygotowanie zbioru do BI.
+
+#### 2. Oczyszczanie danych o zwierzętach (Python)
+**Cel:** Ujednolicenie i oczyszczenie danych obserwacyjnych dzikich zwierząt.  
+**Umiejętności:** Transformacja danych, standaryzacja nazw, uzupełnianie braków, formatowanie dat.
+
+#### 3. Analiza danych szpitalnych (Excel)
+**Cel:** Analiza syntetycznych danych szpitalnych.  
+**Umiejętności:** Tabele przestawne, slicery, model danych, zaawansowane formuły, formatowanie warunkowe, analiza zależności między zmiennymi.
+
+#### 4. Oczyszczanie danych restauracyjnych (Python)
+**Cel:** Walidacja i czyszczenie danych transakcyjnych restauracji.  
+**Umiejętności:** Uzupełnianie braków, weryfikacja zależności między kolumnami, przygotowanie danych do analizy.
+
+#### 5. Analiza danych Netflixa (SQL + Python + Power BI)
+**Cel:** Połączenie zapytań SQL z Pythonem i wizualizacją w Power BI w celu analizy zachowań użytkowników oraz trendów oglądalności.  
+**Umiejętności:**  
+- Tworzenie zapytań SQL (grupowanie, funkcje okna, agregacje)  
+- Przetwarzanie danych w Pythonie (Pandas, SQLAlchemy)  
+- Tworzenie interaktywnych dashboardów w Power BI  
+- Prezentacja i interpretacja danych
+
+---
+
+### 🧩 Narzędzia i technologie
+- **Python** (pandas, numpy, matplotlib, sqlalchemy)  
+- **SQL / PostgreSQL**  
+- **Excel (tabele przestawne, model danych, formatowanie warunkowe)**  
+- **Power BI (dashboardy, KPI, raporty)**  
+- **Czyszczenie, walidacja i wizualizacja danych**
+
+---
+
+### 📈 Wynik
+Każdy projekt pokazuje praktyczne umiejętności analityczne – od czyszczenia i przygotowania danych, przez ich eksplorację, po tworzenie przejrzystych raportów i wizualizacji wspierających decyzje biznesowe.
+
+---
