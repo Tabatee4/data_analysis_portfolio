@@ -1,0 +1,52 @@
+Project overview
+
+This project demonstrates a complete data analysis workflow for a streaming platform — from data extraction and processing in SQL and Python to building an interactive Power BI dashboard.
+The goal was to showcase skills in working with large datasets, performing SQL analytics, and transforming data into a professional business report.
+
+Project stages
+
+1. Data preparation and analysis (Python + SQL)
+
+Connected to PostgreSQL database using SQLAlchemy.
+Wrote SQL queries to analyze:
+user activity and engagement,
+most popular movies and genres,
+average watch time by device and plan,
+monthly revenue and user demographics.
+Exported query results to .csv files for Power BI visualization.
+Conducted data validation and quick exploratory plots in Matplotlib.
+
+Skills demonstrated:
+
+SQL (aggregations, window functions, CASE, CTE)
+Python (Pandas, SQLAlchemy, Matplotlib)
+Data preparation and ETL for BI tools
+
+2. Visualization and reporting (Power BI)
+
+Built a two-page report titled Netflix Report (Aug 2022 – Jul 2025).
+
+Page 1 – User & Platform Overview:
+Active vs inactive users
+User distribution by country and subscription plan
+Top 10 users by watch time
+Device usage
+Downloaded vs streamed content share
+
+Page 2 – Financial & Content Insights:
+
+Total subscription revenue
+Most watched genre
+Average user age
+Top 3 movies and top 3 productions by budget
+Monthly revenue trend visualization
+
+Skills demonstrated:
+
+Power BI (data modeling, DAX, interactivity)
+Dashboard design and storytelling
+Data integration from SQL + CSV sources
+
+Outcome
+
+A complete analytical workflow — from SQL data extraction to a fully interactive Power BI dashboard — offering clear insights into Netflix’s user behavior, revenue patterns, and content popularity.
